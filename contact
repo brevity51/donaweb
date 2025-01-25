@@ -148,7 +148,7 @@
                 <nav class="search-the-network-dropdown-list w-dropdown-list"><a href="https://directories.onepercentfortheplanet.org/?accountType=business&amp;viewMode=list" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Search Business Members</a><a href="https://directories.onepercentfortheplanet.org/?accountType=nonprofit&amp;viewMode=list" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Search Environmental Partners</a></nav>
               </div><a href="/donate" class="nav-link a mobile-only-visibility w-nav-link">Donate</a><a href="/stories" class="nav-link a w-nav-link">Blog</a><a href="/join-control" class="nav-link a mobile-only-visibility w-nav-link">Join</a><a href="https://directories.onepercentfortheplanet.org/auth" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Login</a>
             </div>
-          </nav>
+          </nav> 
         </div>
         <article aria-haspopup="none" fs-scrolldisable-element="toggle" aria-label="global" class="menu-button w-nav-button">
           <div class="top-line"></div>
