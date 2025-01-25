@@ -1,0 +1,853 @@
+<!DOCTYPE html><!-- Last Published: Wed Jan 22 2025 15:55:12 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.onepercentfortheplanet.org" data-wf-page="6582045fb87a7216c4c27a27" data-wf-site="6345b143630a009103bb4bdd" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>1% for the Planet Press Kit</title>
+    <meta content="1% for the Planet Press Kit" property="og:title" />
+    <meta content="1% for the Planet Press Kit" property="twitter:title" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link href="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/css/one-percent-for-the-planet.webflow.9d0a3b752.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      WebFont.load({
+        google: {
+          families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]
+        }
+      });
+    </script>
+    <script src="https://use.typekit.net/xxg7ycv.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      try {
+        Typekit.load();
+      } catch (e) {}
+    </script>
+    <script type="text/javascript">
+      ! function(o, c) {
+        var n = c.documentElement,
+          t = " w-mod-";
+        n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+      }(window, document);
+    </script>
+    <link href="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63ebdb24b13de0808ce86836_favicon.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63ebdb206f01c0777baea5c1_webclip.png" rel="apple-touch-icon" /><!-- Google Tag Manager -->
+    <script>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-KXWMZ68Z');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6529561.js"></script>
+    <!-- End of HubSpot Embed Code -->
+
+
+    <!-- [Attributes by Finsweet] Disable scrolling -->
+    <script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+
+    <!-- [Attributes by Finsweet] Accessibility -->
+    <script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-a11y@1/a11y.js"></script>
+
+
+
+    <style>
+      .search-partners-link-mobile {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+      }
+
+      ::selection {
+        color: #ffffff;
+        background: #1791D1;
+      }
+
+      @view-transition {
+        navigation: auto;
+      }
+    </style>
+
+
+    <!-- Fundraise Up: the new standard for online giving -->
+    <script>
+      (function(w, d, s, n, a) {
+        if (!w[n]) {
+          var l = 'call,catch,on,once,set,then,track,openCheckout'
+            .split(','),
+            i, o = function(n) {
+              return 'function' == typeof n ? o.l.push([arguments]) && o :
+                function() {
+                  return o.l.push([n, arguments]) && o
+                }
+            },
+            t = d.getElementsByTagName(s)[0],
+            j = d.createElement(s);
+          j.async = !0;
+          j.src = 'https://cdn.fundraiseup.com/widget/' + a + '';
+          t.parentNode.insertBefore(j, t);
+          o.s = Date.now();
+          o.v = 5;
+          o.h = w.location.href;
+          o.l = [];
+          for (i = 0; i < 8; i++) o[l[i]] = o(l[i]);
+          w[n] = o
+        }
+      })(window, document, 'script', 'FundraiseUp', 'AKUNQWFP');
+    </script>
+    <!-- End Fundraise Up -->
+  </head>
+  <body>
+    <div class="w-embed w-iframe"><!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXWMZ68Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    </div>
+    <div data-animation="over-right" class="navbar fs-scrolldisable_navbar w-nav" data-easing2="ease-in-out" fs-scrolldisable-element="smart-nav" data-easing="ease-in-out" data-collapse="all" data-w-id="9c2cc4c0-4a29-9e3f-5d6e-e7d05641a403" role="banner" data-no-scroll="1" data-duration="1000" data-doc-height="1">
+      <div class="nav-container w-container"><a href="/" class="brand w-nav-brand"><img width="141" data-w-id="37798d5f-5d22-d66c-3296-286e206c44ce" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf19957d0150f875c8803_1ftp_Primary_Horizontal_White.avif" loading="lazy" alt="1% for the Planet White Logo" class="nav-logo white" /><img width="141" data-w-id="9c2cc4c0-4a29-9e3f-5d6e-e7d05641a406" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/639103fa9807240c230462ec_1ftp%20logo%20horizontal%20full%20color.avif" loading="lazy" alt="1% for the Planet Logo" class="nav-logo" /></a>
+        <div class="nav-desktop-all-menu-items">
+          <div class="nav-desktop-pre-menu"><a href="/join" class="nav-desktop-pre-menu-link">Join</a><a href="/donate" class="nav-desktop-pre-menu-link">Donate</a>
+            <div data-hover="false" data-delay="500" data-w-id="a8e764f8-3b54-ee2b-436e-bc9d16a06156" class="w-dropdown">
+              <div tabindex="0" class="nav-desktop-pre-menu-dropdown-toggle w-dropdown-toggle">
+                <div class="nav-desktop-pre-menu-dropdown-icon w-icon-dropdown-toggle"></div>
+                <div tabindex="0" class="nav-desktop-pre-menu-link">Search the Network</div>
+              </div>
+              <nav data-w-id="a8e764f8-3b54-ee2b-436e-bc9d16a0615b" class="nav-desktop-pre-menu-dropdown-list w-dropdown-list"><a href="https://directories.onepercentfortheplanet.org/?accountType=business&amp;viewMode=list" class="nav-desktop-pre-menu-link dropdown">Search Business Members</a><a href="https://directories.onepercentfortheplanet.org/" class="nav-desktop-pre-menu-link dropdown">Search Environmental Partners</a></nav>
+            </div><a href="https://directories.onepercentfortheplanet.org/auth" class="nav-desktop-pre-menu-link">Login</a>
+          </div>
+          <nav role="navigation" class="nav-menu w-nav-menu">
+            <div aria-label="site navigation" role="dialog" aria-modal="true" class="nav-scroll-wrap"><a href="/" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf19957d0150f875c8803_1ftp_Primary_Horizontal_White.avif" loading="eager" width="Auto" sizes="(max-width: 479px) 0px, 100vw" alt="1% for the Planet White Logo" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf19957d0150f875c8803_1ftp_Primary_Horizontal_White-p-500.avif 500w" class="hamburger-menu-logo" /></a>
+              <div data-delay="0" data-hover="false" data-w-id="699bec52-6363-483c-f291-b0588ee8f05a" class="nav-link w-dropdown">
+                <div aria-haspopup="none" class="nav-dropdown w-dropdown-toggle">
+                  <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                  <div class="nav-dropdown-text">About</div>
+                </div>
+                <nav class="dropdown-list w-dropdown-list"><a href="/about/mission" class="nav-dropdown-link w-dropdown-link">Our Mission</a><a href="/about/story" class="nav-dropdown-link w-dropdown-link">Our Story</a><a href="/events" class="nav-dropdown-link w-dropdown-link">Events</a><a href="/team" class="nav-dropdown-link w-dropdown-link">Team</a></nav>
+              </div><a href="/membership" class="nav-link a w-nav-link">Membership</a><a href="/support" class="nav-link a w-nav-link">Ways to support</a><a href="/planet-impact-fund" class="nav-link a w-nav-link">Planet Impact Fund</a><a href="/environmental-partners" class="nav-link a w-nav-link">Environmental Partners</a>
+              <div data-delay="0" data-hover="false" class="nav-link a mobile-only-visibility w-dropdown">
+                <div aria-haspopup="none" class="nav-dropdown w-dropdown-toggle">
+                  <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                  <div class="nav-dropdown-text">Search the Network</div>
+                </div>
+                <nav class="search-the-network-dropdown-list w-dropdown-list"><a href="https://directories.onepercentfortheplanet.org/?accountType=business&amp;viewMode=list" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Search Business Members</a><a href="https://directories.onepercentfortheplanet.org/?accountType=nonprofit&amp;viewMode=list" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Search Environmental Partners</a></nav>
+              </div><a href="/donate" class="nav-link a mobile-only-visibility w-nav-link">Donate</a><a href="/stories" class="nav-link a w-nav-link">Blog</a><a href="/join-control" class="nav-link a mobile-only-visibility w-nav-link">Join</a><a href="https://directories.onepercentfortheplanet.org/auth" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Login</a>
+            </div>
+          </nav>
+        </div>
+        <article aria-haspopup="none" fs-scrolldisable-element="toggle" aria-label="global" class="menu-button w-nav-button">
+          <div class="top-line"></div>
+          <div class="middle-line"></div>
+          <div class="bottom-line"></div>
+        </article>
+      </div>
+    </div>
+    <main class="content nav-padding">
+      <div class="no-image-hero">
+        <main id="Main" class="hero-text-container">
+          <h1 class="header-small ember">Media &amp; Press Kit</h1>
+          <h2 class="hero-no-image">1% for the Planet in the news</h2>
+          <div class="hero-paragraph-no-image">
+            <div class="hero-paragraph-no-image">If you want to feature 1% for the Planet is your new story please utilize the resources below to do so.</div>
+          </div><a href="#press-kit" id="w-node-_4ae91ed9-3205-04b3-ba90-decf39849a1d-c4c27a27" class="button-primary centered-button-margin w-button">Browse our press kit</a>
+        </main>
+      </div>
+      <div class="container partnership-stories">
+        <div id="seamless-replace" class="partnership-stories-cms-wrapper w-dyn-list">
+          <div role="navigation" aria-label="List" class="w-pagination-wrapper partnership-stories-pagination">
+            <h2>News &amp; Press Releases</h2>
+            <div class="pagination-arrows-wrapper"></div>
+          </div>
+          <div role="list" class="partnership-stories-cms-list w-dyn-items">
+            <div role="listitem" class="partnership-stories-cms-item w-dyn-item">
+              <div class="partnership-stories-cms-item-wrapper">
+                <div style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fec0f35a8f6d3cba1377f8_banner.png&quot;)" class="press-release-cms-thumbnail-wrapper"><img alt="" loading="lazy" width="272" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fec0f35a8f6d3cba1377f8_banner.png" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fec0f35a8f6d3cba1377f8_banner-p-500.png 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fec0f35a8f6d3cba1377f8_banner-p-800.png 800w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fec0f35a8f6d3cba1377f8_banner.png 1000w" class="partnership-stories-cms-thumbnail" /></div>
+                <div class="press-release-cms-content-wrapper"><a aria-label="1% for the Planet Takes Action with Clinton Global Initiative, Announces Commitment to Drive $1 Billion in Environmental Giving" href="/stories/clinton-global-initiative-announces-commitment-to-drive-1-billion-in-environmental-giving" class="partner-stories-link-block w-inline-block">
+                    <div class="partnership-stories-cms-item-title">1% for the Planet Takes Action with Clinton Global Initiative, Announces Commitment to Drive $1 Billion in Environmental Giving</div>
+                  </a>
+                  <div class="partnership-stories-item-excerpt">Strategy will attract and retain business members to significantly expand environmental philanthropy.</div><a aria-label="1% for the Planet Takes Action with Clinton Global Initiative, Announces Commitment to Drive $1 Billion in Environmental Giving" href="/stories/clinton-global-initiative-announces-commitment-to-drive-1-billion-in-environmental-giving" class="cms-link-block w-inline-block">
+                    <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div role="listitem" class="partnership-stories-cms-item w-dyn-item">
+              <div class="partnership-stories-cms-item-wrapper">
+                <div style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66eafff324a75a985fc9c0f8_Global%20Summit%20Press%20Release-min.png&quot;)" class="press-release-cms-thumbnail-wrapper"><img alt="" loading="lazy" width="272" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66eafff324a75a985fc9c0f8_Global%20Summit%20Press%20Release-min.png" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66eafff324a75a985fc9c0f8_Global%20Summit%20Press%20Release-min-p-500.png 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66eafff324a75a985fc9c0f8_Global%20Summit%20Press%20Release-min-p-800.png 800w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66eafff324a75a985fc9c0f8_Global%20Summit%20Press%20Release-min.png 1000w" class="partnership-stories-cms-thumbnail" /></div>
+                <div class="press-release-cms-content-wrapper"><a aria-label="1% for the Planet Announces Exciting Lineup of Speakers and Events for 6th Annual Global Summit in San Diego" href="/stories/1-for-the-planet-announces-exciting-lineup-of-speakers-and-events-for-6th-annual-global-summit-in-san-diego" class="partner-stories-link-block w-inline-block">
+                    <div class="partnership-stories-cms-item-title">1% for the Planet Announces Exciting Lineup of Speakers and Events for 6th Annual Global Summit in San Diego</div>
+                  </a>
+                  <div class="partnership-stories-item-excerpt">We&#x27;re gathering 300+ environmental experts, scientists, activists and business members in one place.</div><a aria-label="1% for the Planet Announces Exciting Lineup of Speakers and Events for 6th Annual Global Summit in San Diego" href="/stories/1-for-the-planet-announces-exciting-lineup-of-speakers-and-events-for-6th-annual-global-summit-in-san-diego" class="cms-link-block w-inline-block">
+                    <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div role="listitem" class="partnership-stories-cms-item w-dyn-item">
+              <div class="partnership-stories-cms-item-wrapper">
+                <div style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fd7542533564a249ff9842_susan%20headshot.png&quot;)" class="press-release-cms-thumbnail-wrapper"><img alt="" loading="lazy" width="272" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fd7542533564a249ff9842_susan%20headshot.png" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fd7542533564a249ff9842_susan%20headshot-p-500.png 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fd7542533564a249ff9842_susan%20headshot-p-800.png 800w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66fd7542533564a249ff9842_susan%20headshot.png 1000w" class="partnership-stories-cms-thumbnail" /></div>
+                <div class="press-release-cms-content-wrapper"><a aria-label="1% for the Planet welcomes new Director of Philanthropy" href="/stories/1-for-the-planet-welcomes-new-director-of-philanthropy" class="partner-stories-link-block w-inline-block">
+                    <div class="partnership-stories-cms-item-title">1% for the Planet welcomes new Director of Philanthropy</div>
+                  </a>
+                  <div class="partnership-stories-item-excerpt">1% for the Planet welcomes Susan Lane as Director of Philanthropy</div><a aria-label="1% for the Planet welcomes new Director of Philanthropy" href="/stories/1-for-the-planet-welcomes-new-director-of-philanthropy" class="cms-link-block w-inline-block">
+                    <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="partnership-stories-cms-wrapper w-dyn-list">
+          <div role="navigation" aria-label="List" class="w-pagination-wrapper partnership-stories-pagination">
+            <h2>Our Most Popular Stories</h2>
+            <div class="pagination-arrows-wrapper"><a href="?45682834_page=1" aria-label="Previous Page" class="w-pagination-previous partnership-stories-pagination-circle"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6410ae90ded612766ad52e7a_Previous%20Arrow.png" loading="lazy" alt="previous arrow" /></a></div>
+          </div>
+          <div role="list" class="partnership-stories-cms-list w-dyn-items">
+            <div data-w-id="47967d10-823e-0ca6-c806-b5dc45682836" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" role="listitem" class="partnership-stories-cms-item w-dyn-item">
+              <div class="partnership-stories-cms-item-wrapper">
+                <div style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64eccd1a296c832e30c32c62_Zenith%20Adventure%20Media%E2%80%93Small%20Business%20thumbnail.avif&quot;);opacity:1" class="partnership-stories-cms-thumbnail-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64eccd1a296c832e30c32c62_Zenith%20Adventure%20Media%E2%80%93Small%20Business%20thumbnail.avif" loading="lazy" width="272" style="opacity:1" alt="" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64eccd1a296c832e30c32c62_Zenith%20Adventure%20Media%E2%80%93Small%20Business%20thumbnail-p-500.avif 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64eccd1a296c832e30c32c62_Zenith%20Adventure%20Media%E2%80%93Small%20Business%20thumbnail.avif 1000w" class="partnership-stories-cms-thumbnail" /></div>
+                <div style="-webkit-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="partnership-stories-cms-content-wrapper"><a aria-label="Small businesses lead the climate fight with CSR" href="/stories/small-businesses-lead-the-climate-fight-with-csr" class="partner-stories-link-block w-inline-block">
+                    <div aria-label="Small businesses lead the climate fight with CSR" class="partnership-stories-cms-item-title">Small businesses lead the climate fight with CSR</div>
+                  </a>
+                  <div style="display:none;opacity:0" class="partnership-stories-item-excerpt">Small businesses are changing &quot;business as usual.&quot;</div><a aria-label="Small businesses lead the climate fight with CSR" style="display:none;opacity:0" href="/stories/small-businesses-lead-the-climate-fight-with-csr" class="cms-link-block w-inline-block">
+                    <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
+                  </a>
+                  <div class="partnership-stories-categories-wrapper">
+                    <div class="partner-stories-category-wrapper w-dyn-list">
+                      <div role="list" class="partnership-stories-category-list w-dyn-items w-row">
+                        <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a href="/category/environmental-impact" class="button-category w-button">Environmental Impact</a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div data-w-id="47967d10-823e-0ca6-c806-b5dc45682836" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" role="listitem" class="partnership-stories-cms-item w-dyn-item">
+              <div class="partnership-stories-cms-item-wrapper">
+                <div style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64dd488c6525833fd1a2b54a_818%20Blog%E2%80%93Header%20Image-min.avif&quot;);opacity:1" class="partnership-stories-cms-thumbnail-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64dd488c6525833fd1a2b54a_818%20Blog%E2%80%93Header%20Image-min.avif" loading="lazy" width="272" style="opacity:1" alt="" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64dd488c6525833fd1a2b54a_818%20Blog%E2%80%93Header%20Image-min-p-500.avif 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64dd488c6525833fd1a2b54a_818%20Blog%E2%80%93Header%20Image-min.avif 1000w" class="partnership-stories-cms-thumbnail" /></div>
+                <div style="-webkit-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="partnership-stories-cms-content-wrapper"><a aria-label="Talking About Tequila with 818 Tequila’s Mike Novy" href="/stories/talking-about-tequila-with-818-tequilas-mike-novy" class="partner-stories-link-block w-inline-block">
+                    <div aria-label="Talking About Tequila with 818 Tequila’s Mike Novy" class="partnership-stories-cms-item-title">Talking About Tequila with 818 Tequila’s Mike Novy</div>
+                  </a>
+                  <div style="display:none;opacity:0" class="partnership-stories-item-excerpt">Kendall Jenner&#x27;s business is taking membership to a new level.</div><a aria-label="Talking About Tequila with 818 Tequila’s Mike Novy" style="display:none;opacity:0" href="/stories/talking-about-tequila-with-818-tequilas-mike-novy" class="cms-link-block w-inline-block">
+                    <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
+                  </a>
+                  <div class="partnership-stories-categories-wrapper">
+                    <div class="partner-stories-category-wrapper w-dyn-list">
+                      <div role="list" class="partnership-stories-category-list w-dyn-items w-row">
+                        <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a href="/category/corporate-giving" class="button-category w-button">Corporate Giving</a></div>
+                        <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a href="/category/partnership-story" class="button-category w-button">Partnership Story</a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div data-w-id="47967d10-823e-0ca6-c806-b5dc45682836" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" role="listitem" class="partnership-stories-cms-item w-dyn-item">
+              <div class="partnership-stories-cms-item-wrapper">
+                <div style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64bef1842e2d34566e01cb1a_Cast%20Your%20Vote%20ballot%20mailbox.avif&quot;);opacity:1" class="partnership-stories-cms-thumbnail-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64bef1842e2d34566e01cb1a_Cast%20Your%20Vote%20ballot%20mailbox.avif" loading="lazy" width="272" style="opacity:1" alt="" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64bef1842e2d34566e01cb1a_Cast%20Your%20Vote%20ballot%20mailbox-p-500.avif 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/64bef1842e2d34566e01cb1a_Cast%20Your%20Vote%20ballot%20mailbox.avif 1000w" class="partnership-stories-cms-thumbnail" /></div>
+                <div style="-webkit-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="partnership-stories-cms-content-wrapper"><a aria-label="Cast your vote for this year’s Summit Award nominees" href="/stories/cast-your-vote-for-this-years-summit-award-nominees" class="partner-stories-link-block w-inline-block">
+                    <div aria-label="Cast your vote for this year’s Summit Award nominees" class="partnership-stories-cms-item-title">Cast your vote for this year’s Summit Award nominees</div>
+                  </a>
+                  <div style="display:none;opacity:0" class="partnership-stories-item-excerpt">Meet the 2023 Summit Award nominees and cast your vote.</div><a aria-label="Cast your vote for this year’s Summit Award nominees" style="display:none;opacity:0" href="/stories/cast-your-vote-for-this-years-summit-award-nominees" class="cms-link-block w-inline-block">
+                    <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
+                  </a>
+                  <div class="partnership-stories-categories-wrapper">
+                    <div class="partner-stories-category-wrapper w-dyn-list">
+                      <div role="list" class="partnership-stories-category-list w-dyn-items w-row">
+                        <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a href="/category/environmental-impact" class="button-category w-button">Environmental Impact</a></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="w-node-b1b9fdb7-53b6-55c7-a270-6088234c6dd8-c4c27a27" class="width-100"><a href="/stories" id="w-node-b1b9fdb7-53b6-55c7-a270-6088234c6dd9-c4c27a27" class="button-primary centered-button-margin padding-left-0 w-button">Read our full blog</a></div>
+      </div>
+      <div class="container">
+        <div class="w-richtext">
+          <h2>1% for the Planet in the news</h2>
+          <p>Articles we&#x27;ve written, podcasts we&#x27;ve been on, and perspectives from the desks and minds of the 1% team.</p>
+        </div>
+        <div id="w-node-a41f672f-15fc-fca5-13e8-64f9aaed555b-c4c27a27" class="width-100 w-dyn-list">
+          <div role="list" class="press-kit-mentions-grid w-dyn-items">
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="Environmental Giving Leader 1% for the Planet Hosts Global Summit at ‘The Nat’" href="https://timesofsandiego.com/arts/2024/09/19/environmental-giving-leader-1-for-the-planet-hosting-6th-annual-global-summit-at-the-nat/" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f17ed0d8e07be5c949ae44_66f17d63e62a0d88e3102ebc_times-of-san-diego-logo-2.jpeg" loading="lazy" alt="" class="press-kit-logo-image" /></div>
+                  <div class="width-100">Environmental Giving Leader 1% for the Planet Hosts Global Summit at ‘The Nat’</div>
+                </a></div>
+            </div>
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="Read from Kate&#x27;s six publications covering impact, workplace culture, banking, and more" href="https://board.fastcompany.com/profile/Kate-Williams-CEO-1-for-the-Planet/4979758e-5b16-42a6-bae1-bf45f62994ce" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18284d50e251f257586ba_654bd2a62c9e343260ed62be_Fast%2520Company-p-500.webp" loading="lazy" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 47vw, 20vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18284d50e251f257586ba_654bd2a62c9e343260ed62be_Fast%2520Company-p-500-p-500.webp 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18284d50e251f257586ba_654bd2a62c9e343260ed62be_Fast%2520Company-p-500.webp 500w" class="press-kit-logo-image" /></div>
+                  <div class="width-100">Read from Kate&#x27;s six publications covering impact, workplace culture, banking, and more</div>
+                </a></div>
+            </div>
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="How 1% For The Planet Makes 100% Business Sense" href="https://businesschief.ae/sustainability/how-1-for-the-planet-makes-100-business-semse" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f182830921f125699ff8bc_654bd4444301756e8920fc58_Business%2520Chief%2520Logo.avif" loading="lazy" alt="" class="press-kit-logo-image" /></div>
+                  <div class="width-100">How 1% For The Planet Makes 100% Business Sense</div>
+                </a></div>
+            </div>
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="Wild Lessons: Crafting a Life Story in the Wild &amp; Leading &#x27;1% for the Planet&#x27;. Building a global community through the power of stories." href="https://www.builtforgood.show/e3-kate-williams-wild-lessons-crafting-a-life-story-in-the-wild-leading-1-for-the-planet-b/" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18283810a2e3cc5611a6d_654bd6038875b0c4cace3525_built%2520for%2520good%2520logo.avif" loading="lazy" alt="" class="press-kit-logo-image" /></div>
+                  <div class="width-100">Wild Lessons: Crafting a Life Story in the Wild &amp; Leading &#x27;1% for the Planet&#x27;. Building a global community through the power of stories.</div>
+                </a></div>
+            </div>
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="Investing in the Planet: Kate Williams, CEO, 1% for the Planet" href="https://blisterreview.com/podcasts/blister-podcast/investing-in-the-planet-kate-williams-ceo-1-for-the-planet-ep-274" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f1828434e0756bac054c97_654bd78eae390b6b17887a8a_Blister-Gray-small-1.webp" loading="lazy" alt="" class="press-kit-logo-image" /></div>
+                  <div class="width-100">Investing in the Planet: Kate Williams, CEO, 1% for the Planet</div>
+                </a></div>
+            </div>
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="Industry Expert Interview: Jenny Kalanges, VP of Membership at 1% for the Planet" href="https://blogs.ksvc.com/energy-wire/industry-expert-jenny-kalanges" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f182845819912855b62517_6549391c74d061dcf926a025_logo-charcoal-640.avif" loading="lazy" alt="" class="press-kit-logo-image" /></div>
+                  <div class="width-100">Industry Expert Interview: Jenny Kalanges, VP of Membership at 1% for the Planet</div>
+                </a></div>
+            </div>
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="Jaclyn McCarthy of 1% for the Planet - Putting People and the Planet over Profit" href="https://outofnowhere.transistor.fm/56" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18285e7eccaaaa96b04f3_654bd8f200dfcaee1fbd3af7_medium_ntv-outofnowhere-weblogo-p-500.webp" loading="lazy" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 47vw, 20vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18285e7eccaaaa96b04f3_654bd8f200dfcaee1fbd3af7_medium_ntv-outofnowhere-weblogo-p-500-p-500.webp 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18285e7eccaaaa96b04f3_654bd8f200dfcaee1fbd3af7_medium_ntv-outofnowhere-weblogo-p-500.webp 500w" class="press-kit-logo-image" /></div>
+                  <div class="width-100">Jaclyn McCarthy of 1% for the Planet - Putting People and the Planet over Profit</div>
+                </a></div>
+            </div>
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="How Businesses and Individuals Are Leading the Way With 1% For The Planet in Environmental Giving" href="https://www.forbes.com/sites/afdhelaziz/2023/05/09/how-businesses-and-individuals-are-leading-the-way-with-1-for-the-planet-in-environmental-giving/" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f17ed017ca08a534497166_654938b00a325c2bfd1b8394_5f32d705c7c9b9e3816d8f6d_download%2520(1).webp" loading="lazy" alt="" class="press-kit-logo-image" /></div>
+                  <div class="width-100">How Businesses and Individuals Are Leading the Way With 1% For The Planet in Environmental Giving</div>
+                </a></div>
+            </div>
+            <div role="listitem" class="flex-vertical width-100 w-dyn-item">
+              <div class="press-kit-wrapper"><a aria-label="82. Kate Williams: 1% For The Planet&#x27;s Global Environmental Efforts" href="https://aclimatechange.com/shows/episode-82-kate-williams/" class="press-kit-link-wrapper w-inline-block">
+                  <div class="press-kit-logo-wrapper"><img src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18284103811c6d1e77f41_654bd8b26ddfbf5ca63ffdd9_A%2520Climate%2520change%2520Logo%2520Green-p-500.webp" loading="lazy" alt="" sizes="(max-width: 479px) 100vw, (max-width: 767px) 47vw, 20vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18284103811c6d1e77f41_654bd8b26ddfbf5ca63ffdd9_A%2520Climate%2520change%2520Logo%2520Green-p-500-p-500.webp 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/66f18284103811c6d1e77f41_654bd8b26ddfbf5ca63ffdd9_A%2520Climate%2520change%2520Logo%2520Green-p-500.webp 500w" class="press-kit-logo-image" /></div>
+                  <div class="width-100">82. Kate Williams: 1% For The Planet&#x27;s Global Environmental Efforts</div>
+                </a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="press-kit" class="container">
+        <div class="w-layout-grid press-kit-3x1-grid">
+          <div id="w-node-e610817e-7983-9c92-f315-cbfbd088cd65-c4c27a27" class="press-kit-brand-card-container"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65495ab7099056108a4c657a_Brand%20Guidelines%20Header.webp" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 88vw, (max-width: 1919px) 84vw, 1100px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65495ab7099056108a4c657a_Brand%20Guidelines%20Header-p-500.webp 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65495ab7099056108a4c657a_Brand%20Guidelines%20Header-p-800.webp 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65495ab7099056108a4c657a_Brand%20Guidelines%20Header.webp 834w" alt="" class="donate-grid-card-image" />
+            <div class="press-kit-brand-cards-text-container">
+              <h3 class="donate-card-title">Brand Guidelines</h3>
+              <p class="donate-card-paragraph">Colors, fonts, spacing and logo usage guidelines for 1% for the Planet</p><a aria-label="brand guide" href="https://1fortheplanet.imagerelay.com/sb/6e0475a3-a091-44d1-b245-f2ae6107a727/1-for-the-planet-shareable-brand-guidelines" class="button-white w-button">Brand Guide</a>
+            </div>
+          </div>
+          <div id="w-node-e610817e-7983-9c92-f315-cbfbd088cd6e-c4c27a27" class="press-kit-brand-card-container"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64809ff4a1adabd5dc89985d_fundraise%20jeff%20clipboard.jpeg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 88vw, (max-width: 1919px) 84vw, 1100px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64809ff4a1adabd5dc89985d_fundraise%20jeff%20clipboard-p-500.jpeg 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64809ff4a1adabd5dc89985d_fundraise%20jeff%20clipboard-p-800.jpeg 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64809ff4a1adabd5dc89985d_fundraise%20jeff%20clipboard-p-1080.jpeg 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64809ff4a1adabd5dc89985d_fundraise%20jeff%20clipboard.jpeg 1200w" alt="1% for the planet staff Jeff WIlson with a clipboard on the beach" class="donate-grid-card-image" />
+            <div class="press-kit-brand-cards-text-container">
+              <h3 class="donate-card-title">Hi-Res Images</h3>
+              <p class="donate-card-paragraph">High resolution images featuring our network and brand.<br /></p><a aria-label="images" href="https://1fortheplanet.imagerelay.com/sb/bb00c662-14e6-4b0e-9526-b4d19fece6ea/1-for-the-planet-press-kit" class="button-white w-button">Images</a>
+            </div>
+          </div>
+          <div id="w-node-e610817e-7983-9c92-f315-cbfbd088cd78-c4c27a27" class="press-kit-brand-card-container background-color-stratus"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf524dc9fd337a8863368_1ftp_Primary_Vertical_FullColor.avif" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 88vw, (max-width: 1919px) 84vw, 1100px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf524dc9fd337a8863368_1ftp_Primary_Vertical_FullColor-p-500.avif 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf524dc9fd337a8863368_1ftp_Primary_Vertical_FullColor.avif 2470w" alt="1% for the Planet Full Color Veritcal Logo" class="donate-grid-card-image contain padding-20px" />
+            <div class="press-kit-brand-cards-text-container">
+              <h3 class="donate-card-title">Logos</h3>
+              <p class="donate-card-paragraph">High resolution 1% for the Planet logos</p><a aria-label="browse logos" href="https://1fortheplanet.imagerelay.com/sb/eedc91f6-0032-4b9b-9e9a-e5e5296c6d79/1-for-the-planet-logos" class="button-white w-button">Browse Logos</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="w-layout-grid grid"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63e2cc1996de3caf9b7c70b5_LM6A3127.avif" loading="lazy" id="w-node-_6420eddf-5a23-0763-b716-4442d4ff34b9-c4c27a27" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 88vw, (max-width: 1919px) 84vw, 1100px" alt="Young students at Nature Bridge examining a stream" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63e2cc1996de3caf9b7c70b5_LM6A3127-p-500.avif 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63e2cc1996de3caf9b7c70b5_LM6A3127.avif 960w" class="image-grid-card-left image-fit-cover" />
+          <div id="w-node-_6420eddf-5a23-0763-b716-4442d4ff34ba-c4c27a27" class="image-grid-card-right-text">
+            <h2 id="w-node-_6420eddf-5a23-0763-b716-4442d4ff34bb-c4c27a27">1% for the Planet Organization Description</h2>
+            <div class="w-richtext">
+              <p class="margin-top-bottom-20px">1% for the Planet is a global movement inspiring businesses to support environmental solutions through annual membership and everyday actions. We accelerate smart environmental giving by advising on giving strategies, certifying donations and amplifying the impact of our network.</p>
+            </div>
+            <div class="story-heading-by-the-numbers">
+              <div class="inline">Our over </div>
+              <div class="story-by-the-numbers-collection-item w-dyn-list">
+                <div role="list" class="story-by-the-numbers-collection-item w-dyn-items">
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">30</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">56</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">64</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">110</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">7265</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline">4887</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">691</div>
+                  </div>
+                </div>
+              </div>
+              <div class="inline"> business members support more than </div>
+              <div class="story-by-the-numbers-collection-item w-dyn-list">
+                <div role="list" class="story-by-the-numbers-collection-item w-dyn-items">
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">30</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">56</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">64</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">110</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline">7265</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">4887</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline w-condition-invisible">691</div>
+                  </div>
+                </div>
+              </div>
+              <div class="inline"> approved environmental partners by donating the equivalent of 1% of sales through a combination of monetary, in-kind and approved promotional expenses. We guide and support this giving and provide credible third-party certification. To date, our members have given over $ </div>
+              <div class="story-by-the-numbers-collection-item w-dyn-list">
+                <div role="list" class="inline w-dyn-items">
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline margin-left--6px w-condition-invisible">30</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline margin-left--6px w-condition-invisible">56</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline margin-left--6px w-condition-invisible">64</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline margin-left--6px w-condition-invisible">110</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline margin-left--6px w-condition-invisible">7265</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline margin-left--6px w-condition-invisible">4887</div>
+                  </div>
+                  <div role="listitem" class="story-by-the-numbers-collection-item w-dyn-item">
+                    <div class="inline margin-left--6px">691</div>
+                  </div>
+                </div>
+              </div>
+              <div class="inline"> million to environmental partners since 2002.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="metrics-grid-wrapper">
+          <div id="w-node-fdb7200c-399f-f985-ad64-d20f36df073a-c4c27a27" class="metrics-grid-block first">
+            <aside class="counter-wrapper">
+              <div class="metrics-grid-box-figure">$</div>
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">30</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">56</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">64</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">110</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">7265</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">4887</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter">691</div>
+                  </div>
+                </div>
+              </div>
+              <div class="metrics-grid-box-figure">M+</div>
+            </aside>
+            <div id="w-node-fdb7200c-399f-f985-ad64-d20f36df0747-c4c27a27" class="metrics-grid-block-label first">TOTAL CERTIFIED GIVING</div>
+          </div>
+          <div id="w-node-fdb7200c-399f-f985-ad64-d20f36df0749-c4c27a27" class="metrics-grid-block">
+            <div class="counter-wrapper">
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">30</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">56</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">64</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter">110</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">7265</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">4887</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">691</div>
+                  </div>
+                </div>
+              </div>
+              <div class="metrics-grid-box-figure">+</div>
+            </div>
+            <div class="metrics-grid-block-label">COUNTRIES REPRESENTED</div>
+          </div>
+          <div id="w-node-fdb7200c-399f-f985-ad64-d20f36df0756-c4c27a27" class="metrics-grid-block">
+            <div class="counter-wrapper">
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">30</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">56</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">64</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">110</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">7265</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter">4887</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">691</div>
+                  </div>
+                </div>
+              </div>
+              <div class="metrics-grid-box-figure">+</div>
+            </div>
+            <div id="w-node-fdb7200c-399f-f985-ad64-d20f36df0761-c4c27a27" class="metrics-grid-block-label">BUSINESS MEMBERS</div>
+          </div>
+          <div id="w-node-fdb7200c-399f-f985-ad64-d20f36df0763-c4c27a27" class="metrics-grid-block last">
+            <div class="counter-wrapper last">
+              <div class="w-dyn-list">
+                <div role="list" class="w-dyn-items">
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">30</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">56</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">64</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">110</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter">7265</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">4887</div>
+                  </div>
+                  <div role="listitem" class="w-dyn-item">
+                    <div class="counter w-condition-invisible">691</div>
+                  </div>
+                </div>
+              </div>
+              <div class="metrics-grid-box-figure">+</div>
+            </div>
+            <div id="w-node-fdb7200c-399f-f985-ad64-d20f36df076e-c4c27a27" class="metrics-grid-block-label last">ENVIRONMENTAL PARTNERS</div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="w-layout-grid press-kit-2x2-grid">
+          <div id="w-node-ddbbb7d7-90e1-6712-6a0d-7f663d251ea7-c4c27a27" class="press-kit-bio-grid-card-container"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66e9f64ca69e0e9e27359a94_Kate%20Williams%20Headshot.png" loading="lazy" alt="Kate Williams" class="press-kit-bio-grid-card-image" />
+            <div class="press-kit-bio-text-container justify-start">
+              <h3 class="donate-card-title">Kate Williams</h3>
+              <p class="donate-card-paragraph bold-text">CEO</p>
+              <p class="donate-card-paragraph">Kate Williams is CEO of 1% for the Planet, a global movement that inspires action and commitment so that our planet and future generations thrive. 1% for the Planet’s global network of thousands of businesses and individuals have donated $100s of millions to environmental partners to date. Kate has led significant growth in the community’s scale and impact, as well as deep work on best practices for implementing high impact giving strategies, growing a network brand and operating as a thriving workplace with an incredible staff team. Kate earned a BA at Princeton University and an MS at the MIT Sloan School of Management, and has served on a variety of Boards throughout her career. Kate is Mom to two amazing young adults, 30-year partner with her husband, and is a trail runner, hiker with her dog and kitchen gardener.</p>
+            </div>
+          </div>
+          <div id="w-node-_4d40c055-3f87-5122-e8ba-81fa289f5aca-c4c27a27" class="press-kit-bio-grid-card-container"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66e9f64c3517c29a223d1e73_Allyson%20Bartlett%20Headshot.png" loading="lazy" alt="Allyson Bartlett Headshot" class="press-kit-bio-grid-card-image" />
+            <div class="press-kit-bio-text-container justify-start">
+              <h3 class="donate-card-title">Allyson Bartlett</h3>
+              <p class="donate-card-paragraph bold-text">VP, Brand and Marketing</p>
+              <p class="donate-card-paragraph">Allyson is the VP of Brand &amp; Marketing and has been at 1% for the Planet since 2018 building an in-house team, growing the global brand and driving record scale and impact. Before 1%, Allyson worked in communications &amp; brand strategy at Blue Cross and Blue Shield of Vermont, earning her master&#x27;s in business administration and recognition as a Vermont Rising Stars under 40. Due to her passion for the environment, Allyson was motivated to bring her background at a member-driven, nonprofit to 1% for the Planet. Allyson lives with her husband, son and cat at Bolton Valley Ski Resort, where they enjoy hosting—whether it be in the kitchen or out on the slopes. She and her husband also own a photobooth business, which takes them to many spectacular events—allowing them to meet new people and acquire an outlandish costume collection and vintage vans.</p>
+            </div>
+          </div>
+          <div id="w-node-_76eda354-d52f-cf07-9fd2-040cfb2911ce-c4c27a27" class="press-kit-bio-grid-card-container"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66e9f64ce491283312cf5fbe_Jenny%20Kalanges%20Headshot.png" loading="lazy" alt="Jenny Kalanges Headshot" class="press-kit-bio-grid-card-image" />
+            <div class="press-kit-bio-text-container justify-start">
+              <h3 class="donate-card-title">Jenny Kalanges</h3>
+              <p class="donate-card-paragraph bold-text">VP, Membership</p>
+              <p class="donate-card-paragraph">Jenny Kalanges is the VP of Membership at 1% for the Planet and her strategic vision, operational excellence, and natural mentorship has led the organization to grow its impact and performance while increasing employee engagement. Jenny leads the business development, account management, and member success and certification teams at 1% for the Planet. She is passionate about organizational behavior and change, fostering thriving teams, strategic partnerships, and business innovation. Jenny earned a BA in social work and an MBA in Sustainable Innovation from the University of Vermont. Jenny lives in Maine with her partner and their beloved doodle, is an artist, avid yoga and meditation practitioner, and considers herself a backyard naturalist.</p>
+            </div>
+          </div>
+          <div id="w-node-_3fe2351b-9746-f5e8-2dd4-ee21e67f5641-c4c27a27" class="press-kit-bio-grid-card-container"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66e9f64cf61d2b6ed193ac84_Jaclyn%20McCarthy%20Headshot.png" loading="lazy" alt="Jaclyn McCarthy" class="press-kit-bio-grid-card-image" />
+            <div class="press-kit-bio-text-container justify-start">
+              <h3 class="donate-card-title">Jaclyn McCarthy</h3>
+              <p class="donate-card-paragraph bold-text">Director, Brand and Marketing</p>
+              <p class="donate-card-paragraph">Jaclyn joined 1% for the Planet in 2018. As the organization’s Director of Brand &amp; Marketing, she oversees the organization’s brand strategy, creative direction, communications and event management. During her tenure, the 1% for the Planet brand has experienced remarkable growth. Prior to 1% for the Planet, Jaclyn earned a BA degree in Media &amp; Journalism at The University of North Carolina at Chapel Hill. In 2016, she began her career at Fuse Marketing, where she honed her skills in experiential marketing and brand strategy. Today, Jaclyn is a dynamic professional with a knack for purpose-driven marketing and a zest for life&#x27;s many adventures.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="banner-slider-wrapper">
+          <div class="banner-slider-image-wrapper overflow-hidden position-relative">
+            <div data-w-id="8436d018-25f6-f67a-c6ba-789b97be9cb6" class="fjord-focus-sky"></div>
+            <div class="fjord-focus"></div><img sizes="(max-width: 479px) 100vw, (max-width: 767px) 59vw, (max-width: 991px) 54vw, (max-width: 1919px) 55vw, 715px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6478a7709be98e1598ba211d_rocky%20coast%20banner-p-500.avif 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6478a7709be98e1598ba211d_rocky%20coast%20banner-p-800.avif 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6478a7709be98e1598ba211d_rocky%20coast%20banner.avif 1200w" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6478a7709be98e1598ba211d_rocky%20coast%20banner.avif" loading="lazy" alt="a rocky oceanic coastline with clear water" class="banner-slider-image" />
+          </div>
+          <div class="banner-slider-text-container">
+            <div class="banner-slider-text-wrapper">
+              <h3 class="white">Questions?</h3>
+              <div class="white">We’re here to help you answer any questions you may have.</div>
+              <div class="button-wrapper"><a href="mailto:marketing@onepercentfortheplanet.org?subject=Press%20Inquiry" class="button-secondary w-button">Contact us</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <div data-w-id="3821b4ea-5ff3-ea30-216c-a5cbb0b19bea" class="footer">
+      <footer id="footer-content" class="footer-section-content mod--footer w-clearfix"><a href="#footer-policies" class="footer-skip-link w-inline-block">
+          <div>Skip to footer policies</div>
+        </a>
+        <div data-w-id="3821b4ea-5ff3-ea30-216c-a5cbb0b19bec" class="footer-content-wrapper mod--footer w-clearfix">
+          <div class="footer-columns-wrapper mod--1">
+            <div class="footer-column footer-email-sign-up-container"><a href="/" class="logo-link-footer mod--footer w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf544d59e223359361578_1ftp_Primary_Vertical_White-1.avif" loading="eager" width="179" alt="1% for the Planet White Veritcal Logo" class="footer-logo" /></a>
+              <div class="footer__form-wrap">
+                <div>
+                  <h2 id="subscribe-footer" class="footer__form-title centered-paragraph">Subscribe to our newsletter:</h2>
+                  <div class="footer__form-block w-form">
+                    <form id="wf-form-Footer" name="wf-form-Footer" data-name="Footer" method="get" data-webflow-hubspot-api-form-url="https://hubspotonwebflow.com/api/forms/8be4d011-390c-4802-9fd3-aeeaf04e8865" class="modal-pop-up-form" data-wf-page-id="6582045fb87a7216c4c27a27" data-wf-element-id="3821b4ea-5ff3-ea30-216c-a5cbb0b19bf5"><input class="footer__form---input w-input" data-wfhsfieldname="FormTextInput-2" autocomplete="email" maxlength="256" name="email-field" data-name="email field" aria-labelledby="subscribe-footer" placeholder="Email address" type="email" id="email-field" required="" />
+                      <div class="form__btn">
+                        <div form-submitted="anim" class="overflow-hidden mod--submit active">
+                          <div data-anim="arrows" class="form__btn-arrows"><img alt="" loading="eager" src="https://cdn.prod.website-files.com/633acc23fe06891a04039e96/633acc23fe0689891a039eb8_arrow-btn.svg" class="form__btn-arrow mod--2" /><img alt="" loading="eager" src="https://cdn.prod.website-files.com/633acc23fe06891a04039e96/633acc23fe0689891a039eb8_arrow-btn.svg" class="form__btn-arrow" /></div>
+                        </div>
+                        <div class="form__submit-result-wrap">
+                          <div form-submitted="anim" class="form__submit-result active"><img src="https://cdn.prod.website-files.com/633acc23fe06891a04039e96/633acc23fe0689cbfe039ecd_ico-cheked.svg" loading="lazy" alt="" class="form__submit-result-ico" /></div>
+                        </div><input type="submit" data-wait="Please wait..." class="form__submit w-button" value="Submit" />
+                      </div><input type="hidden" name="hutk" value="" /><input type="hidden" name="ipAddress" value="" /><input type="hidden" name="pageUri" value="" /><input type="hidden" name="pageId" value="" /><input type="hidden" name="pageName" value="" />
+                    </form>
+                    <div class="footer__form-success w-form-done">
+                      <div>Thanks! We think our newsletters are great. Hope you do too!</div>
+                    </div>
+                    <div class="error-message w-form-fail">
+                      <div>Invalid email. Required format: email@email.com</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="footer-column mod--2">
+              <div class="footer-rotate-wrap">
+                <div class="footer-rotate-words-intro-wrap">
+                  <div class="footer-rotate-words-intro">Joining helps</div>
+                </div>
+                <div class="footer-rotate-words-container">
+                  <div class="footer-rotate-words-wrap">
+                    <div data-w-id="38360479-1bbe-9c32-4a18-67919c6db051" class="footer-rotate-words-first-word">people</div>
+                    <div data-w-id="7e366f2e-0d24-4860-7ccc-0a77738325f8" class="footer-rotate-words">the planet</div>
+                    <div data-w-id="21cb646d-1879-290e-5333-5033b6f87029" class="footer-rotate-words">future generations</div>
+                    <div data-w-id="63f83b02-8603-1fe2-3674-ff705ea7a961" class="footer-rotate-words">your business</div>
+                  </div>
+                  <div class="footer-rotate-word-alternate-wrapper">
+                    <div class="footer-rotate-words">us all.</div>
+                  </div>
+                  <div class="footer-button-wrapper"><a aria-label="pause animation" data-w-id="94e4884e-9ac8-3735-59ef-adb23f6a135e" href="#" class="hide-animation-button w-button"></a><a aria-label="play animation" data-w-id="ab9db5db-b018-473b-9e38-f746ee622b12" href="#" class="play-animation-button w-button">▸<br /></a></div>
+                </div>
+              </div>
+              <div class="footer-inside-columns footer-inside-columns-grid">
+                <div class="footer-inside-column-link-grid mod--1">
+                  <h2 class="footer__list-title">Join</h2>
+                  <div class="w-layout-grid footer-grid-link-list"><a href="/join" id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c19-b0b19bea" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c1d-b0b19bea" class="footer__nav-link">join as a business</div>
+                    </a><a id="w-node-_2cc1fb59-b4e7-17b0-1d28-5098ee97e66e-b0b19bea" href="/membership#how-it-works" class="footer__nav-link w-inline-block">
+                      <div class="footer__nav-link">How it works</div>
+                    </a></div>
+                </div>
+                <div class="footer-inside-column-link-grid mod--1">
+                  <h2 class="footer__list-title">Donate</h2>
+                  <div class="w-layout-grid footer-grid-link-list"><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c26-b0b19bea" href="/donate" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c27-b0b19bea" class="footer__nav-link">Donate today</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c2c-b0b19bea" href="/planet-impact-fund" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c2d-b0b19bea" class="footer__nav-link">planet impact fund</div>
+                    </a><a id="w-node-_337adc68-f59e-cdfe-44d7-9e235f478d28-b0b19bea" href="/support" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_337adc68-f59e-cdfe-44d7-9e235f478d29-b0b19bea" class="footer__nav-link">Ways to support</div>
+                    </a><a id="w-node-_8a5e4743-5337-9520-b578-c56a860854d5-b0b19bea" href="/donor-advised-funds" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_8a5e4743-5337-9520-b578-c56a860854d6-b0b19bea" class="footer__nav-link">Donor Advised Funds</div>
+                    </a></div>
+                </div>
+                <div class="footer-inside-column-link-grid mod--1">
+                  <h2 class="footer__list-title">Learn</h2>
+                  <div class="w-layout-grid footer-grid-link-list grid-1x5"><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c33-b0b19bea" href="/about/mission" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c34-b0b19bea" class="footer__nav-link">Our Mission</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c36-b0b19bea" href="/about/story" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c37-b0b19bea" class="footer__nav-link">Our STory</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c39-b0b19bea" href="/stories" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c3a-b0b19bea" class="footer__nav-link">Stories of impact</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c3c-b0b19bea" href="/team" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c3d-b0b19bea" class="footer__nav-link">Our team</div>
+                    </a><a id="w-node-_3aae7968-928a-611d-ab38-27db2b90f1ae-b0b19bea" href="/founders-board" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3aae7968-928a-611d-ab38-27db2b90f1af-b0b19bea" class="footer__nav-link">FOUNDERS &amp; BOARD</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c3f-b0b19bea" href="/frequently-asked-questions" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c40-b0b19bea" class="footer__nav-link">FAQs</div>
+                    </a></div>
+                </div>
+                <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c42-b0b19bea" class="footer-inside-column-link-grid mod--1">
+                  <h2 class="footer__list-title">Connect</h2>
+                  <div class="w-layout-grid footer-grid-link-list"><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c46-b0b19bea" href="/contact" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c47-b0b19bea" class="footer__nav-link">Contact Us</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c49-b0b19bea" href="/careers" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c4a-b0b19bea" class="footer__nav-link">Jobs </div>
+                      <div class="footer__nav-link left-margin-5px marigold-highlight display-none"> We&#x27;re Hiring!</div>
+                    </a><a id="w-node-_85c4a113-f3fc-ee5d-f487-3ff8a72365be-b0b19bea" href="/annual-reports" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_85c4a113-f3fc-ee5d-f487-3ff8a72365bf-b0b19bea" class="footer__nav-link">Annual Reports</div>
+                    </a><a id="w-node-_40d4792c-349e-cf38-e1ef-7e3332592092-b0b19bea" href="/press-kit" aria-current="page" class="footer__nav-link w-inline-block w--current">
+                      <div id="w-node-_40d4792c-349e-cf38-e1ef-7e3332592093-b0b19bea" class="footer__nav-link">Press &amp; Media Kit</div>
+                    </a><a id="w-node-ba572be1-3961-aa6e-0d38-1acfed87e0c8-b0b19bea" href="https://directories.onepercentfortheplanet.org/?viewMode=map" class="footer__nav-link w-inline-block">
+                      <div id="w-node-ba572be1-3961-aa6e-0d38-1acfed87e0c9-b0b19bea" class="footer__nav-link">Map</div>
+                    </a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer-columns-wrapper footer__social">
+            <div class="footer-column social-media-container">
+              <div class="w-layout-grid social-media-grid"><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c57-b0b19bea" href="http://instagram.com/1percentftp" class="sm-icon-link w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63b5e11ac65da24fc3be9a25_Instagram.svg" loading="lazy" alt="Instagram" class="sm-icon" />
+                  <div class="sm-text sm-text-light">Instagram</div>
+                </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c5b-b0b19bea" href="http://linkedin.com/company/422477/" class="sm-icon-link w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63b5e11ac65da20a2cbe9a2a_LinkedIn.svg" loading="lazy" alt="LinkedIn" class="sm-icon" />
+                  <div class="sm-text sm-text-light">LinkedIn</div>
+                </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c5f-b0b19bea" href="https://vimeo.com/onepercent" class="sm-icon-link w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63b5e11ac65da2e941be9a2f_Vimeo.svg" loading="lazy" alt="Vimeo" class="sm-icon" />
+                  <div class="sm-text sm-text-light">Vimeo</div>
+                </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c63-b0b19bea" href="https://www.youtube.com/channel/UCt7Vb_t-ATwvYHTqs4Q2frQ" class="sm-icon-link w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63b5e11ac65da2407fbe9a35_YouTube.svg" loading="lazy" alt="YouTube" class="sm-icon" />
+                  <div class="sm-text sm-text-light">YouTube</div>
+                </a></div>
+            </div>
+          </div>
+          <div class="footer-columns-wrapper footer__social">
+            <div class="footer-column">
+              <div class="w-layout-grid footer-certifications-grid">
+                <div id="w-node-_562d30e3-95a1-14c7-f84b-b1027d290466-b0b19bea" class="footer-certification">
+                  <div id="w-node-f2643c8a-b5a9-0aa0-28c0-305d9ee39e9c-b0b19bea" class="w-embed"><a href="https://www.guidestar.org/profile/shared/d72fb4a7-fc32-4fc3-acc4-0a59c5e8afb2" target="_blank"><img src="https://widgets.guidestar.org/TransparencySeal/8357061" alt="platinum transparency candid badge" lang="en" /></a></div>
+                </div><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63939012163d96183dc9a73c_SupporterLogos-01%20(2)-1.avif" loading="lazy" id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c6c-b0b19bea" alt="Good Well Certified Logo
+" class="footer-certification" />
+                <div id="w-node-_3510ded8-fd2b-9d68-e738-220273949f40-b0b19bea" class="footer-certification">
+                  <div class="w-embed"><a href="https://www.charitynavigator.org/ein/912151932" target="_blank">
+                      <img src="https://charitynavigator.org/content/dam/cn/cn/badges/Four-StarRatingBadge-FullColor.png" alt="Charity Navigator Four-Star Rating" />
+                    </a></div>
+                </div>
+              </div>
+              <div id="footer-policies" class="footer-policies-container"><a href="/privacy-policy" class="footer__nav-link centered">Privacy Policy</a>
+                <div class="footer-policies-divider"> | </div><a href="/accessibility-statement" class="footer__nav-link centered">Accessibility Statement</a>
+                <div class="footer-policies-divider"> | </div><a href="/terms-of-use" class="footer__nav-link centered">Terms of Use</a>
+              </div>
+              <div class="footer-policies-container">
+                <div class="footer-copyright-text">Copyright <span class="demo-7_year">2024</span>. 1% for the Planet® is a 501(c)(3). All rights reserved. <br />1% for the Planet<sup>SM</sup> and the 1% for the Planet<sup>SM</sup> logo are trademarks of 1% for the Planet and are registered in the U.S.<br />EIN: 91-2151932</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6345b143630a009103bb4bdd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/js/webflow.28d1bce19d64540fa1cbbdb2076b259c.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      _linkedin_partner_id = "6523436";
+      window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+      window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    </script>
+    <script type="text/javascript">
+      (function(l) {
+        if (!l) {
+          window.lintrk = function(a, b) {
+            window.lintrk.q.push([a, b])
+          };
+          window.lintrk.q = []
+        }
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+      })(window.lintrk);
+    </script>
+    <noscript>
+      <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6523436&fmt=gif" />
+    </noscript>
+
+    <!-- Load Cookies.js Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/3.0.1/js.cookie.min.js" defer></script>
+
+    <!-- Banner JavaScript -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var cookieName = 'announcementClosed';
+
+        // Check if the cookie exists, if it does, hide the announcement bar
+        if (typeof Cookies.get(cookieName) !== 'undefined') {
+          document.querySelector('.announcement-bar').style.display = 'none';
+        }
+
+        // When the "X" button is clicked, set the cookie and hide the announcement bar
+        document.querySelector('.announcement-x-button').addEventListener('click', function() {
+          Cookies.set(cookieName, 'ok', {
+            expires: 7
+          }); // Cookie expires in 7 days
+          document.querySelector('.announcement-bar').style.display = 'none'; // Hide the announcement bar
+        });
+      });
+    </script>
+
+
+    <!-- Start seamless-pagination custom code -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.min.js"></script>
+    <script>
+      var containerSelector = '#seamless-replace';
+      $(document).pjax(
+        '.w-pagination-wrapper a',
+        containerSelector, {
+          container: containerSelector,
+          fragment: containerSelector,
+          scrollTo: false,
+          timeout: 2500,
+        }
+      );
+      // These 3 lines should reinitialize interactions
+      $(document).on('pjax:end', function() {
+        Webflow.require('ix2').init();
+      });
+    </script>
+
+    <!-- End seamless-pagination custom code -->
+    <script src="https://hubspotonwebflow.com/assets/js/form-124.js" type="text/javascript" integrity="sha384-bjyNIOqAKScdeQ3THsDZLGagNN56B4X2Auu9YZIGu+tA/PlggMk4jbWruG/P6zYj" crossorigin="anonymous"></script>
+  </body>
+</html>

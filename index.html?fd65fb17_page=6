@@ -898,27 +898,27 @@
                 <h2>Our latest stories</h2><a data-w-id="afb61d41-177f-a49d-28ce-03eb36d77a89" href="#" class="show-featured-stories-excerpt w-inline-block">
                   <div data-w-id="64e9197c-c128-7d45-5fca-5e557174a96b">Show Excerpts below</div>
                 </a>
-                <div class="pagination-arrows-wrapper"><a href="?fd65fb17_page=2" aria-label="Next Page" class="w-pagination-next partnership-stories-pagination-circle"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6410ace32e5ef132f3ec4a24_Next%20Arrow.png" loading="lazy" alt="Right Arrow" /></a>
-                  <link rel="prerender" href="?fd65fb17_page=2" />
+                <div class="pagination-arrows-wrapper"><a href="?fd65fb17_page=5" aria-label="Previous Page" class="w-pagination-previous partnership-stories-pagination-circle"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6410ace32e5ef132f3ec4a24_Next%20Arrow.png" loading="lazy" alt="Right Arrow" class="rotate-180" /></a><a href="?fd65fb17_page=7" aria-label="Next Page" class="w-pagination-next partnership-stories-pagination-circle"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6410ace32e5ef132f3ec4a24_Next%20Arrow.png" loading="lazy" alt="Right Arrow" /></a>
+                  <link rel="prerender" href="?fd65fb17_page=7" />
                 </div>
               </div>
               <div role="list" class="partnership-stories-cms-list w-dyn-items">
                 <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb22" role="listitem" class="partnership-stories-cms-item w-dyn-item">
                   <div class="partnership-stories-cms-item-wrapper">
-                    <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb25" style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cdd94fcec810353d4f004_GS%20banner-min.png&quot;)" class="partnership-stories-cms-thumbnail-wrapper"><img alt="Global Summit 2024: San Diego showcases a global network in action." loading="lazy" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cedcefeee90aa7e2edf78_Global%20Summit%202024%20Thumbnail%20.jpg" data-w-id="fd1f55fc-7535-ef9d-7eaf-98c36cd8bf6d" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cedcefeee90aa7e2edf78_Global%20Summit%202024%20Thumbnail%20-p-500.jpg 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cedcefeee90aa7e2edf78_Global%20Summit%202024%20Thumbnail%20-p-800.jpg 800w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cedcefeee90aa7e2edf78_Global%20Summit%202024%20Thumbnail%20.jpg 1000w" class="partnership-stories-cms-thumbnail" /><img alt="Global Summit 2024: San Diego showcases a global network in action." loading="lazy" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cdd94fcec810353d4f004_GS%20banner-min.png" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb26" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cdd94fcec810353d4f004_GS%20banner-min-p-500.png 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cdd94fcec810353d4f004_GS%20banner-min-p-800.png 800w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/673cdd94fcec810353d4f004_GS%20banner-min.png 1000w" class="partnership-stories-cms-thumbnail w-condition-invisible" /></div>
+                    <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb25" style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/65428731370149f0d53743e3_Header%20Image%20-%20Ellen%20MacArthur%20Foundation-min.avif&quot;)" class="partnership-stories-cms-thumbnail-wrapper"><img alt="Our network is closing the fashion industry loop." loading="lazy" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64a2e1383ff24791d732f09f_Brave%20Trails%20Friendship%20Bracelet.jpg" data-w-id="fd1f55fc-7535-ef9d-7eaf-98c36cd8bf6d" class="partnership-stories-cms-thumbnail w-dyn-bind-empty" /><img alt="Our network is closing the fashion industry loop." loading="lazy" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/65428731370149f0d53743e3_Header%20Image%20-%20Ellen%20MacArthur%20Foundation-min.avif" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb26" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/65428731370149f0d53743e3_Header%20Image%20-%20Ellen%20MacArthur%20Foundation-min-p-500.avif 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/65428731370149f0d53743e3_Header%20Image%20-%20Ellen%20MacArthur%20Foundation-min.avif 1000w" class="partnership-stories-cms-thumbnail" /></div>
                     <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb27" class="partnership-stories-cms-content-wrapper">
-                      <div class="partnership-stories-link-block-wrapper"><a href="/stories/whats-it-like-to-be-a-part-of-1-for-the-planet" class="partner-stories-link-block w-inline-block">
-                          <div class="partnership-stories-cms-item-title">What’s it like to be a part of 1% for the Planet?</div>
+                      <div class="partnership-stories-link-block-wrapper"><a href="/stories/9-environmental-organizations-empowering-long-term-change-with-the-circular-fashion-economy" class="partner-stories-link-block w-inline-block">
+                          <div class="partnership-stories-cms-item-title">9 environmental organizations empowering long-term change with the circular fashion economy</div>
                         </a>
-                        <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb29" class="partnership-stories-item-excerpt">Global Summit 2024: San Diego showcases a global network in action.</div>
-                      </div><a aria-hidden="true" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb23" href="/stories/whats-it-like-to-be-a-part-of-1-for-the-planet" class="cms-link-block w-inline-block">
+                        <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb29" class="partnership-stories-item-excerpt">Our network is closing the fashion industry loop.</div>
+                      </div><a aria-hidden="true" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb23" href="/stories/9-environmental-organizations-empowering-long-term-change-with-the-circular-fashion-economy" class="cms-link-block w-inline-block">
                         <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
                       </a>
                       <div class="partnership-stories-categories-wrapper">
                         <div class="partner-stories-category-wrapper w-dyn-list">
                           <div role="list" class="partnership-stories-category-list w-dyn-items w-row">
-                            <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a data-w-id="b8d75704-9895-1232-72c8-c5501fc2ebe9" href="/category/network-benefits" class="button-category w-button">Network Benefits</a></div>
-                            <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a data-w-id="b8d75704-9895-1232-72c8-c5501fc2ebe9" href="/category/corporate-giving" class="button-category w-button">Corporate Giving</a></div>
+                            <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a data-w-id="b8d75704-9895-1232-72c8-c5501fc2ebe9" href="/category/environmental-partners" class="button-category w-button">Environmental Partners</a></div>
+                            <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a data-w-id="b8d75704-9895-1232-72c8-c5501fc2ebe9" href="/category/environmental-impact" class="button-category w-button">Environmental Impact</a></div>
                           </div>
                         </div>
                       </div>
@@ -927,40 +927,40 @@
                 </div>
                 <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb22" role="listitem" class="partnership-stories-cms-item w-dyn-item">
                   <div class="partnership-stories-cms-item-wrapper">
-                    <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb25" style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6734e1a8a8e76713397bcf2c_Yvon%20Banner.jpg&quot;)" class="partnership-stories-cms-thumbnail-wrapper"><img alt="Every advancement in society has been made through activism. Don&#x27;t be an asshole in 2024." loading="lazy" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64a2e1383ff24791d732f09f_Brave%20Trails%20Friendship%20Bracelet.jpg" data-w-id="fd1f55fc-7535-ef9d-7eaf-98c36cd8bf6d" class="partnership-stories-cms-thumbnail w-dyn-bind-empty" /><img alt="Every advancement in society has been made through activism. Don&#x27;t be an asshole in 2024." loading="lazy" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6734e1a8a8e76713397bcf2c_Yvon%20Banner.jpg" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb26" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6734e1a8a8e76713397bcf2c_Yvon%20Banner-p-500.jpg 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6734e1a8a8e76713397bcf2c_Yvon%20Banner-p-800.jpg 800w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6734e1a8a8e76713397bcf2c_Yvon%20Banner-p-1080.jpg 1080w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6734e1a8a8e76713397bcf2c_Yvon%20Banner.jpg 1249w" class="partnership-stories-cms-thumbnail" /></div>
+                    <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb25" style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/653151d2321f41db7877cf8e_Summit%20Awards%20Gala%20Banner-min.avif&quot;)" class="partnership-stories-cms-thumbnail-wrapper"><img alt="Meet the four winners of 2023 Summit Awards." loading="lazy" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64a2e1383ff24791d732f09f_Brave%20Trails%20Friendship%20Bracelet.jpg" data-w-id="fd1f55fc-7535-ef9d-7eaf-98c36cd8bf6d" class="partnership-stories-cms-thumbnail w-dyn-bind-empty" /><img alt="Meet the four winners of 2023 Summit Awards." loading="lazy" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/653151d2321f41db7877cf8e_Summit%20Awards%20Gala%20Banner-min.avif" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb26" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/653151d2321f41db7877cf8e_Summit%20Awards%20Gala%20Banner-min-p-500.avif 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/653151d2321f41db7877cf8e_Summit%20Awards%20Gala%20Banner-min.avif 1000w" class="partnership-stories-cms-thumbnail" /></div>
                     <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb27" class="partnership-stories-cms-content-wrapper">
-                      <div class="partnership-stories-link-block-wrapper"><a href="/stories/a-letter-from-our-founder" class="partner-stories-link-block w-inline-block">
-                          <div class="partnership-stories-cms-item-title">A letter from our founder, Yvon Chouinard, November 2024</div>
+                      <div class="partnership-stories-link-block-wrapper"><a href="/stories/meet-the-4-winners-of-this-years-inaugural-summit-awards-program-and-learn-about-their-environmental-impact" class="partner-stories-link-block w-inline-block">
+                          <div class="partnership-stories-cms-item-title">Meet the 4 winners of this year&#x27;s Summit Awards program and learn about their environmental impact</div>
                         </a>
-                        <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb29" class="partnership-stories-item-excerpt">Every advancement in society has been made through activism. Don&#x27;t be an asshole in 2024.</div>
-                      </div><a aria-hidden="true" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb23" href="/stories/a-letter-from-our-founder" class="cms-link-block w-inline-block">
-                        <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
-                      </a>
-                      <div class="partnership-stories-categories-wrapper">
-                        <div class="partner-stories-category-wrapper w-dyn-list">
-                          <div role="list" class="partnership-stories-category-list w-dyn-items w-row">
-                            <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a data-w-id="b8d75704-9895-1232-72c8-c5501fc2ebe9" href="/category/climate-justice" class="button-category w-button">Climate Justice</a></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb22" role="listitem" class="partnership-stories-cms-item w-dyn-item">
-                  <div class="partnership-stories-cms-item-wrapper">
-                    <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb25" style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6711358c0b14d6a56f02f9c1_2024%20SA%20winner%20banner-min.png&quot;)" class="partnership-stories-cms-thumbnail-wrapper"><img alt="Hear from GU Energy, Booth &amp; Partners, Zafrán and Germinar." loading="lazy" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64a2e1383ff24791d732f09f_Brave%20Trails%20Friendship%20Bracelet.jpg" data-w-id="fd1f55fc-7535-ef9d-7eaf-98c36cd8bf6d" class="partnership-stories-cms-thumbnail w-dyn-bind-empty" /><img alt="Hear from GU Energy, Booth &amp; Partners, Zafrán and Germinar." loading="lazy" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6711358c0b14d6a56f02f9c1_2024%20SA%20winner%20banner-min.png" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb26" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6711358c0b14d6a56f02f9c1_2024%20SA%20winner%20banner-min-p-500.png 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6711358c0b14d6a56f02f9c1_2024%20SA%20winner%20banner-min-p-800.png 800w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/6711358c0b14d6a56f02f9c1_2024%20SA%20winner%20banner-min.png 1000w" class="partnership-stories-cms-thumbnail" /></div>
-                    <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb27" class="partnership-stories-cms-content-wrapper">
-                      <div class="partnership-stories-link-block-wrapper"><a href="/stories/meet-the-4-winners-of-the-2024-summit-awards-program" class="partner-stories-link-block w-inline-block">
-                          <div class="partnership-stories-cms-item-title">Meet the 4 winners of the 2024 Summit Awards program and learn about their environmental impact</div>
-                        </a>
-                        <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb29" class="partnership-stories-item-excerpt">Hear from GU Energy, Booth &amp; Partners, Zafrán and Germinar.</div>
-                      </div><a aria-hidden="true" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb23" href="/stories/meet-the-4-winners-of-the-2024-summit-awards-program" class="cms-link-block w-inline-block">
+                        <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb29" class="partnership-stories-item-excerpt">Meet the four winners of 2023 Summit Awards.</div>
+                      </div><a aria-hidden="true" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb23" href="/stories/meet-the-4-winners-of-this-years-inaugural-summit-awards-program-and-learn-about-their-environmental-impact" class="cms-link-block w-inline-block">
                         <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
                       </a>
                       <div class="partnership-stories-categories-wrapper">
                         <div class="partner-stories-category-wrapper w-dyn-list">
                           <div role="list" class="partnership-stories-category-list w-dyn-items w-row">
                             <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a data-w-id="b8d75704-9895-1232-72c8-c5501fc2ebe9" href="/category/environmental-impact" class="button-category w-button">Environmental Impact</a></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb22" role="listitem" class="partnership-stories-cms-item w-dyn-item">
+                  <div class="partnership-stories-cms-item-wrapper">
+                    <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb25" style="background-image:url(&quot;https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/650387e3cc12ada6aa3b2a05_Gathering%20Growth%20Banner%20by%20Casey%20Steffens.avif&quot;)" class="partnership-stories-cms-thumbnail-wrapper"><img alt="Meet the world record-breaking Bigfoot Pine." loading="lazy" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/64a2e1383ff24791d732f09f_Brave%20Trails%20Friendship%20Bracelet.jpg" data-w-id="fd1f55fc-7535-ef9d-7eaf-98c36cd8bf6d" class="partnership-stories-cms-thumbnail w-dyn-bind-empty" /><img alt="Meet the world record-breaking Bigfoot Pine." loading="lazy" src="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/650387e3cc12ada6aa3b2a05_Gathering%20Growth%20Banner%20by%20Casey%20Steffens.avif" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb26" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/650387e3cc12ada6aa3b2a05_Gathering%20Growth%20Banner%20by%20Casey%20Steffens-p-500.avif 500w, https://cdn.prod.website-files.com/634735ad1c3cc168fc2117a1/650387e3cc12ada6aa3b2a05_Gathering%20Growth%20Banner%20by%20Casey%20Steffens.avif 1000w" class="partnership-stories-cms-thumbnail" /></div>
+                    <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb27" class="partnership-stories-cms-content-wrapper">
+                      <div class="partnership-stories-link-block-wrapper"><a href="/stories/new-discovery-on-the-worlds-largest-eastern-white-pine-with-erik-danielson-and-gathering-growth-foundation" class="partner-stories-link-block w-inline-block">
+                          <div class="partnership-stories-cms-item-title">New discovery on the world’s largest Eastern White Pine with Erik Danielson and Gathering Growth Foundation</div>
+                        </a>
+                        <div data-w-id="e9ee3095-b67c-5689-850a-197afd65fb29" class="partnership-stories-item-excerpt">Meet the world record-breaking Bigfoot Pine.</div>
+                      </div><a aria-hidden="true" data-w-id="e9ee3095-b67c-5689-850a-197afd65fb23" href="/stories/new-discovery-on-the-worlds-largest-eastern-white-pine-with-erik-danielson-and-gathering-growth-foundation" class="cms-link-block w-inline-block">
+                        <div class="partnership-stories-read-button-wrapper"><span class="partnership-stories-read-button">Read this story</span></div>
+                      </a>
+                      <div class="partnership-stories-categories-wrapper">
+                        <div class="partner-stories-category-wrapper w-dyn-list">
+                          <div role="list" class="partnership-stories-category-list w-dyn-items w-row">
+                            <div role="listitem" class="partnership-stories-category-collection-item w-dyn-item w-col w-col-6"><a data-w-id="b8d75704-9895-1232-72c8-c5501fc2ebe9" href="/category/environmental-partners" class="button-category w-button">Environmental Partners</a></div>
                           </div>
                         </div>
                       </div>

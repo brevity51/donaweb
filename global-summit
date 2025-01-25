@@ -1,0 +1,967 @@
+<!DOCTYPE html><!-- Last Published: Wed Jan 22 2025 15:55:12 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.onepercentfortheplanet.org" data-wf-page="65a853bddc325e2f40e995d9" data-wf-site="6345b143630a009103bb4bdd" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Global Summit | San Diego 2024 | 1% for the Planet&#x27;s Annual Conference</title>
+    <meta content="What’s more impactful than a single business as a force for environmental good? A whole roomful of them. Learn more about events and gatherings as part of the 1% for the Planet network." name="description" />
+    <meta content="Global Summit | San Diego 2024 | 1% for the Planet&#x27;s Annual Conference" property="og:title" />
+    <meta content="What’s more impactful than a single business as a force for environmental good? A whole roomful of them. Learn more about events and gatherings as part of the 1% for the Planet network." property="og:description" />
+    <meta content="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66734328f742757b940c8d24_23_GSSanDiegoLaunch-2100x1050-cb438745-badd-42b2-8d52-eaaa6464a859.jpg" property="og:image" />
+    <meta content="Global Summit | San Diego 2024 | 1% for the Planet&#x27;s Annual Conference" property="twitter:title" />
+    <meta content="What’s more impactful than a single business as a force for environmental good? A whole roomful of them. Learn more about events and gatherings as part of the 1% for the Planet network." property="twitter:description" />
+    <meta content="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66734328f742757b940c8d24_23_GSSanDiegoLaunch-2100x1050-cb438745-badd-42b2-8d52-eaaa6464a859.jpg" property="twitter:image" />
+    <meta property="og:type" content="website" />
+    <meta content="summary_large_image" name="twitter:card" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link href="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/css/one-percent-for-the-planet.webflow.9d0a3b752.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      WebFont.load({
+        google: {
+          families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"]
+        }
+      });
+    </script>
+    <script src="https://use.typekit.net/xxg7ycv.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      try {
+        Typekit.load();
+      } catch (e) {}
+    </script>
+    <script type="text/javascript">
+      ! function(o, c) {
+        var n = c.documentElement,
+          t = " w-mod-";
+        n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+      }(window, document);
+    </script>
+    <link href="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63ebdb24b13de0808ce86836_favicon.png" rel="shortcut icon" type="image/x-icon" />
+    <link href="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63ebdb206f01c0777baea5c1_webclip.png" rel="apple-touch-icon" /><!-- Google Tag Manager -->
+    <script>
+      (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start': new Date().getTime(),
+          event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-KXWMZ68Z');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Start of HubSpot Embed Code -->
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6529561.js"></script>
+    <!-- End of HubSpot Embed Code -->
+
+
+    <!-- [Attributes by Finsweet] Disable scrolling -->
+    <script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-scrolldisable@1/scrolldisable.js"></script>
+
+    <!-- [Attributes by Finsweet] Accessibility -->
+    <script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-a11y@1/a11y.js"></script>
+
+
+
+    <style>
+      .search-partners-link-mobile {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+      }
+
+      ::selection {
+        color: #ffffff;
+        background: #1791D1;
+      }
+
+      @view-transition {
+        navigation: auto;
+      }
+    </style>
+
+
+    <!-- Fundraise Up: the new standard for online giving -->
+    <script>
+      (function(w, d, s, n, a) {
+        if (!w[n]) {
+          var l = 'call,catch,on,once,set,then,track,openCheckout'
+            .split(','),
+            i, o = function(n) {
+              return 'function' == typeof n ? o.l.push([arguments]) && o :
+                function() {
+                  return o.l.push([n, arguments]) && o
+                }
+            },
+            t = d.getElementsByTagName(s)[0],
+            j = d.createElement(s);
+          j.async = !0;
+          j.src = 'https://cdn.fundraiseup.com/widget/' + a + '';
+          t.parentNode.insertBefore(j, t);
+          o.s = Date.now();
+          o.v = 5;
+          o.h = w.location.href;
+          o.l = [];
+          for (i = 0; i < 8; i++) o[l[i]] = o(l[i]);
+          w[n] = o
+        }
+      })(window, document, 'script', 'FundraiseUp', 'AKUNQWFP');
+    </script>
+    <!-- End Fundraise Up -->
+    <style>
+      .js-accordion-body {
+        display: none;
+      }
+
+      .accordion-body.js-accordion-body {
+        border-top: 0px solid rgba(0, 0, 0, .1) !important;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="w-embed w-iframe"><!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXWMZ68Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    </div><a href="#main" class="skip-link">skip to content</a>
+    <div data-animation="over-right" class="navbar fs-scrolldisable_navbar w-nav" data-easing2="ease-in-out" fs-scrolldisable-element="smart-nav" data-easing="ease-in-out" data-collapse="all" data-w-id="9c2cc4c0-4a29-9e3f-5d6e-e7d05641a403" role="banner" data-no-scroll="1" data-duration="1000" data-doc-height="1">
+      <div class="nav-container w-container"><a href="/" class="brand w-nav-brand"><img width="141" data-w-id="37798d5f-5d22-d66c-3296-286e206c44ce" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf19957d0150f875c8803_1ftp_Primary_Horizontal_White.avif" loading="lazy" alt="1% for the Planet White Logo" class="nav-logo white" /><img width="141" data-w-id="9c2cc4c0-4a29-9e3f-5d6e-e7d05641a406" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/639103fa9807240c230462ec_1ftp%20logo%20horizontal%20full%20color.avif" loading="lazy" alt="1% for the Planet Logo" class="nav-logo" /></a>
+        <div class="nav-desktop-all-menu-items">
+          <div class="nav-desktop-pre-menu"><a href="/join" class="nav-desktop-pre-menu-link">Join</a><a href="/donate" class="nav-desktop-pre-menu-link">Donate</a>
+            <div data-hover="false" data-delay="500" data-w-id="a8e764f8-3b54-ee2b-436e-bc9d16a06156" class="w-dropdown">
+              <div tabindex="0" class="nav-desktop-pre-menu-dropdown-toggle w-dropdown-toggle">
+                <div class="nav-desktop-pre-menu-dropdown-icon w-icon-dropdown-toggle"></div>
+                <div tabindex="0" class="nav-desktop-pre-menu-link">Search the Network</div>
+              </div>
+              <nav data-w-id="a8e764f8-3b54-ee2b-436e-bc9d16a0615b" class="nav-desktop-pre-menu-dropdown-list w-dropdown-list"><a href="https://directories.onepercentfortheplanet.org/?accountType=business&amp;viewMode=list" class="nav-desktop-pre-menu-link dropdown">Search Business Members</a><a href="https://directories.onepercentfortheplanet.org/" class="nav-desktop-pre-menu-link dropdown">Search Environmental Partners</a></nav>
+            </div><a href="https://directories.onepercentfortheplanet.org/auth" class="nav-desktop-pre-menu-link">Login</a>
+          </div>
+          <nav role="navigation" class="nav-menu w-nav-menu">
+            <div aria-label="site navigation" role="dialog" aria-modal="true" class="nav-scroll-wrap"><a href="/" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf19957d0150f875c8803_1ftp_Primary_Horizontal_White.avif" loading="eager" width="Auto" sizes="(max-width: 479px) 0px, 100vw" alt="1% for the Planet White Logo" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf19957d0150f875c8803_1ftp_Primary_Horizontal_White-p-500.avif 500w" class="hamburger-menu-logo" /></a>
+              <div data-delay="0" data-hover="false" data-w-id="699bec52-6363-483c-f291-b0588ee8f05a" class="nav-link w-dropdown">
+                <div aria-haspopup="none" class="nav-dropdown w-dropdown-toggle">
+                  <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                  <div class="nav-dropdown-text">About</div>
+                </div>
+                <nav class="dropdown-list w-dropdown-list"><a href="/about/mission" class="nav-dropdown-link w-dropdown-link">Our Mission</a><a href="/about/story" class="nav-dropdown-link w-dropdown-link">Our Story</a><a href="/events" class="nav-dropdown-link w-dropdown-link">Events</a><a href="/team" class="nav-dropdown-link w-dropdown-link">Team</a></nav>
+              </div><a href="/membership" class="nav-link a w-nav-link">Membership</a><a href="/support" class="nav-link a w-nav-link">Ways to support</a><a href="/planet-impact-fund" class="nav-link a w-nav-link">Planet Impact Fund</a><a href="/environmental-partners" class="nav-link a w-nav-link">Environmental Partners</a>
+              <div data-delay="0" data-hover="false" class="nav-link a mobile-only-visibility w-dropdown">
+                <div aria-haspopup="none" class="nav-dropdown w-dropdown-toggle">
+                  <div class="nav-dropdown-icon w-icon-dropdown-toggle"></div>
+                  <div class="nav-dropdown-text">Search the Network</div>
+                </div>
+                <nav class="search-the-network-dropdown-list w-dropdown-list"><a href="https://directories.onepercentfortheplanet.org/?accountType=business&amp;viewMode=list" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Search Business Members</a><a href="https://directories.onepercentfortheplanet.org/?accountType=nonprofit&amp;viewMode=list" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Search Environmental Partners</a></nav>
+              </div><a href="/donate" class="nav-link a mobile-only-visibility w-nav-link">Donate</a><a href="/stories" class="nav-link a w-nav-link">Blog</a><a href="/join-control" class="nav-link a mobile-only-visibility w-nav-link">Join</a><a href="https://directories.onepercentfortheplanet.org/auth" target="_blank" class="nav-link a mobile-only-visibility w-nav-link">Login</a>
+            </div>
+          </nav>
+        </div>
+        <article aria-haspopup="none" fs-scrolldisable-element="toggle" aria-label="global" class="menu-button w-nav-button">
+          <div class="top-line"></div>
+          <div class="middle-line"></div>
+          <div class="bottom-line"></div>
+        </article>
+      </div>
+    </div>
+    <div class="pop-up-modal-container">
+      <div class="pop-up-modal-wrapper">
+        <div tabindex="0" class="pop-up-modal-close"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63f534b9ce0e3a620ec4a3a1_remove.avif" loading="lazy" alt="a white X" /></div>
+        <h1 class="white font-size-24px">Question about events?</h1>
+      </div>
+    </div>
+    <main id="main" class="content">
+      <div data-poster-url="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65ba988b88207779feca2f81_Global-Summit-Web-Loop-V2-1080p-poster-00001.jpg" data-video-urls="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65ba988b88207779feca2f81_Global-Summit-Web-Loop-V2-1080p-transcode.mp4,https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65ba988b88207779feca2f81_Global-Summit-Web-Loop-V2-1080p-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="events-video global-summit w-background-video w-background-video-atom"><video id="c6786c19-8852-2c95-a6a3-de56846a67ab-video" autoplay="" loop="" style="background-image:url(&quot;https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65ba988b88207779feca2f81_Global-Summit-Web-Loop-V2-1080p-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+          <source src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65ba988b88207779feca2f81_Global-Summit-Web-Loop-V2-1080p-transcode.mp4" data-wf-ignore="true" />
+          <source src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65ba988b88207779feca2f81_Global-Summit-Web-Loop-V2-1080p-transcode.webm" data-wf-ignore="true" />
+        </video>
+        <div data-w-id="25e0b585-9e41-9216-eaf5-8afbea246335" style="opacity:0" class="events-hero-wrapper">
+          <div class="global-summit-hero-logo"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581c16f574364b15abcf940_Asset%202Global%20Summit%2024.avif" loading="lazy" alt="global summit logo" class="global-summit-hero-logo" />
+            <div class="font-size-san-diego"><strong class="text---black">SAN DIEGO</strong></div>
+            <div><strong class="text---black">OCTOBER 15-17, 2O24</strong></div>
+          </div>
+          <div class="button-wrapper flex---centered-button display-none"><a href="https://hopin.com/events/global-summit-2023/registration" class="button-white font-20px no-margin w-button">Get the details</a></div>
+        </div><noscript>
+          <style>
+            [data-wf-bgvideo-fallback-img] {
+              display: none;
+            }
+
+            @media (prefers-reduced-motion: reduce) {
+              [data-wf-bgvideo-fallback-img] {
+                position: absolute;
+                z-index: -100;
+                display: inline-block;
+                height: 100%;
+                width: 100%;
+                object-fit: cover;
+              }
+            }
+          </style><img data-wf-bgvideo-fallback-img="true" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65ba988b88207779feca2f81_Global-Summit-Web-Loop-V2-1080p-poster-00001.jpg" alt="" />
+        </noscript>
+        <div aria-live="polite"><button type="button" data-w-bg-video-control="true" aria-controls="c6786c19-8852-2c95-a6a3-de56846a67ab-video" class="w-backgroundvideo-backgroundvideoplaypausebutton w-background-video--control"><span><img src="https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg" loading="lazy" alt="Pause video" /></span><span hidden=""><img loading="lazy" alt="Play video" src="https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg" /></span></button></div>
+      </div>
+      <div class="events-banner display-none">
+        <div class="events-hero-wrapper gradient">
+          <h1 class="header-small marigold">events</h1>
+          <h2 class="centered-heading white">Global Summit 2023: NYC<br />Thank you!</h2>
+          <div class="hero-paragraph-no-image font-weight-medium white"><span class="global-summit-span">Save the date for Global Summit San Diego October 15-17, 2024!</span></div>
+          <div class="button-wrapper flex---centered-button display-none"><a href="https://hopin.com/events/global-summit-2023/registration" class="button-white font-20px no-margin w-button">Get the details</a></div>
+        </div>
+        <div class="scroll-down-wrapper"><a href="#" aria-label="scroll-down" class="scroll-down w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6452bf9b3c1d69988c0bf92b_chevron%20down%20marigold.avif" loading="lazy" width="40" alt="" /></a></div>
+      </div>
+      <div id="registration" class="container eventbrite">
+        <h2 class="width-100">THANK YOU ALL!</h2>
+        <p>What a momentous week!<br /><br />Over the course of three days, we spoke with rangers on the thin green line, explored the history and contributed to the beauty of Balboa Park in tandem with The Nat&#x27;s 150th anniversary and set our sights on the path forward for the growing global community that is 1% for the Planet. While we work diligently to create this container known as Global Summit, you create the experience.</p>
+        <p>With humble thanks and immense gratitude,<br />‍<em>The 1% for the Planet Team</em></p>
+        <p><a href="mailto:events@onepercentfortheplanet.org?subject=Global%20Summit%202024">Questions? Send us a note.</a></p>
+        <div class="eventbrite-wrapper display-none">
+          <div class="eventbrite-widget-container-738188280017 w-embed w-script">
+            <div id="eventbrite-widget-container-738188280017"></div>
+
+            <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+            <script type="text/javascript">
+              var exampleCallback = function() {
+                console.log('Order complete!');
+              };
+
+              window.EBWidgets.createWidget({
+                // Required
+                widgetType: 'checkout',
+                eventId: '738188280017',
+                iframeContainerId: 'eventbrite-widget-container-738188280017',
+
+                // Optional
+                iframeContainerHeight: 625, // Widget height in pixels. Defaults to a minimum of 425px if not provided
+                onOrderComplete: exampleCallback // Method called when an order has successfully completed
+              });
+            </script>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <h2 id="w-node-_7ad13f05-114d-3335-1e5a-196f170dbb77-40e995d9" class="mobile-visible">What you can expect at Global Summit</h2>
+        <div class="events-split">
+          <div id="w-node-_7ad13f05-114d-3335-1e5a-196f170dbb75-40e995d9" class="impact-area-split-text-container">
+            <div class="impact-area-split-text-wrapper">
+              <h2 class="tablet-visible">What you can expect at Global Summit</h2>
+              <div class="w-richtext">
+                <p>Global Summit is our network-only annual event, bringing together members and partners from around the world to discuss and collaborate on ways to create meaningful environmental impact. <br /><br />Through workshops, presentations, and networking opportunities, attendees can learn about the progress that our members and partners are making, environmental challenges and solutions, as well as connect with each other in person. <br /><br />Global Summit is a powerful reminder of the importance of collective action and the impact that is possible when individuals and organizations work together.</p>
+              </div>
+              <div class="join-form-button-events display-none">
+                <div class="w-embed w-iframe w-script"><button id="joinButton" data-tf-popup="Hz8RQTIy" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=Join as a 1% for the Planet Member" data-tf-transitive-search-params data-tf-medium="snippet" data-tf-hidden="utm_source=events_popUp,hubspot_utk=,hubspot_page_name=,hubspot_page_url=,country=,ip=,continent=,city=" data-tf-hubspot class="button-primary margin-left-5px centered-button-text membership">Join the movement</button>
+                  <script src="//embed.typeform.com/next/embed.js"></script>
+                  <script>
+                    async function getIpAndLoadPopup() {
+                      // load data about your customer from db-ip.com
+                      const result = await fetch('https://api.db-ip.com/v2/free/self');
+                      const data = await result.json();
+                      const {
+                        ipAddress,
+                        continentName,
+                        countryName,
+                        city
+                      } = data || {};
+
+                      // construct the hidden fields string
+                      const hiddenFields = `utm_source=events_popUp,hubspot_utk=,hubspot_page_name=,hubspot_page_url=,country=${countryName},ip=${ipAddress},continent=${continentName},city=${city}`;
+
+                      // update the data-tf-hidden attribute with the hidden fields
+                      const joinButton = document.querySelector('#joinButtonhome');
+                      joinButton.setAttribute('data-tf-hidden', hiddenFields);
+                    }
+
+                    getIpAndLoadPopup();
+                  </script>
+                </div><a href="#" class="w-button">Button Text</a>
+              </div>
+            </div>
+          </div>
+          <div id="w-node-_7ad13f05-114d-3335-1e5a-196f170dbb84-40e995d9">
+            <div data-delay="4000" data-animation="cross" class="split-slider w-slider" data-autoplay="false" data-easing="ease-in-out" data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="5" data-duration="500" data-infinite="true">
+              <div class="split-slide-mask events w-slider-mask">
+                <div class="w-slide">
+                  <div class="split-slide-container">
+                    <div class="slide-gradient"></div><img sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 44vw, (max-width: 1919px) 42vw, 550px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e73d66fceb1fa84ab812_2023_10_18-1FTP_01391_Low-Res-p-500.webp 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e73d66fceb1fa84ab812_2023_10_18-1FTP_01391_Low-Res-p-800.webp 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e73d66fceb1fa84ab812_2023_10_18-1FTP_01391_Low-Res-p-1080.webp 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e73d66fceb1fa84ab812_2023_10_18-1FTP_01391_Low-Res-p-1600.webp 1600w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e73d66fceb1fa84ab812_2023_10_18-1FTP_01391_Low-Res.webp 1933w" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e73d66fceb1fa84ab812_2023_10_18-1FTP_01391_Low-Res.webp" loading="lazy" alt="Dr. Ayana Elizabeth Johnson giving keynote at Global Summit" class="split-slider-image" />
+                    <div class="split-slide-caption-wrapper">
+                      <h3 class="white font-size-18px">Engaging programming</h3>
+                      <div class="white global-summit-slider">In 2023, Global Summit was headlined by keynote speakers Dr. Ayana Elizabeth Johnson, co-founder of Urban Ocean Lab and The All We Can Save Project and Vincent Stanley, Director of Philosophy at Patagonia.</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="w-slide">
+                  <div class="split-slide-container">
+                    <div class="slide-gradient"></div><img sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 44vw, (max-width: 1919px) 42vw, 550px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e79a70a4e18f3b02b173_2023_10_19-1FTP_00539_Low-Res-p-500.webp 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e79a70a4e18f3b02b173_2023_10_19-1FTP_00539_Low-Res-p-800.webp 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e79a70a4e18f3b02b173_2023_10_19-1FTP_00539_Low-Res-p-1080.webp 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e79a70a4e18f3b02b173_2023_10_19-1FTP_00539_Low-Res-p-1600.webp 1600w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e79a70a4e18f3b02b173_2023_10_19-1FTP_00539_Low-Res-p-2000.webp 2000w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e79a70a4e18f3b02b173_2023_10_19-1FTP_00539_Low-Res-p-2600.webp 2600w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e79a70a4e18f3b02b173_2023_10_19-1FTP_00539_Low-Res.webp 2758w" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e79a70a4e18f3b02b173_2023_10_19-1FTP_00539_Low-Res.webp" loading="lazy" alt="a participant holding yarn at an event at global summit" class="split-slider-image" />
+                    <div class="split-slide-caption-wrapper">
+                      <h3 class="white font-size-18px">Opportunity for action</h3>
+                      <div class="white">Activate with your fellow 1% for the Planet network members and seize opportunities for a sustainable future.</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="w-slide">
+                  <div class="split-slide-container">
+                    <div class="slide-gradient">
+                      <div class="summit-award-logo-overlay"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/661d5025866246c36c6613fe_GS%20Summit%20Award%20w%201%25%20Logo.png" loading="lazy" alt="summit award logo" />
+                        <div class="centered-paragraph white global-summit-icon-year">2024</div>
+                      </div>
+                    </div><img sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 44vw, (max-width: 1919px) 42vw, 550px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/649c51d4047c0f12d305674c_summit%20awards%20background%20600px-p-500.webp 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/649c51d4047c0f12d305674c_summit%20awards%20background%20600px.webp 600w" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/649c51d4047c0f12d305674c_summit%20awards%20background%20600px.webp" loading="lazy" alt="a mountain peak overlooking a lake at sunrise " class="split-slider-image summit-awards" />
+                    <div class="split-slide-caption-wrapper">
+                      <h3 class="white font-size-18px"><strong>Summit Awards</strong></h3>
+                      <div class="white">Honoring member excellence in three areas: Leadership, Change &amp; Innovation, and Partnership.</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="w-slide">
+                  <div class="split-slide-container">
+                    <div class="slide-gradient"></div><img sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 44vw, (max-width: 1919px) 42vw, 550px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e9121a2765decae93174_2023_10_18-1FTP_01264_Low-Res-p-500.webp 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e9121a2765decae93174_2023_10_18-1FTP_01264_Low-Res-p-800.webp 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e9121a2765decae93174_2023_10_18-1FTP_01264_Low-Res-p-1080.webp 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e9121a2765decae93174_2023_10_18-1FTP_01264_Low-Res-p-1600.webp 1600w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e9121a2765decae93174_2023_10_18-1FTP_01264_Low-Res-p-2000.webp 2000w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e9121a2765decae93174_2023_10_18-1FTP_01264_Low-Res.webp 2292w" src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6581e9121a2765decae93174_2023_10_18-1FTP_01264_Low-Res.webp" loading="lazy" alt="a presenter at global summit 2023" class="split-slider-image" />
+                    <div class="split-slide-caption-wrapper">
+                      <h3 class="white font-size-18px">Immersive breakout sessions</h3>
+                      <div class="white">Gain profound insights and expertise from an exceptional panel of members and environmental partners.</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="split-slider-left-arrow w-slider-arrow-left">
+                <div class="w-icon-slider-left"></div>
+              </div>
+              <div class="split-slider-right-arrow w-slider-arrow-right">
+                <div class="w-icon-slider-right"></div>
+              </div>
+              <div class="split-slide-nav five-slides w-slider-nav w-shadow w-round"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container flex-horizontal-desktop flex-vertical-tablet">
+        <div class="partners-content gs-sponsors">
+          <h2>Stronger together.</h2>
+          <p>Global Summit is supported by a team of sponsors, without whom the event would be impossible.</p>
+        </div>
+        <div class="partners-logos-wrapper global-summit">
+          <div class="flex-horizontal background---glacier padding-20px flex-vertical-mobile">
+            <h3 class="centered-heading no-margin-mobile">Pinnacle Sponsor</h3>
+            <div id="w-node-_9fa490ea-4537-862b-870b-e2a3371cfecc-40e995d9" class="partner-icon-wrapper pinnacle"><a id="w-node-_9fa490ea-4537-862b-870b-e2a3371cfecd-40e995d9" href="https://www.oxo.com" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65ef469288800924f9f71c75_23_OXOLogoBlack.avif" loading="lazy" id="w-node-_9fa490ea-4537-862b-870b-e2a3371cfece-40e995d9" alt="oxo logo" class="partner-icon pinnacle" /></a></div>
+          </div>
+          <div id="w-node-a4defdd4-2e5c-32ad-6888-144190a76c8f-40e995d9" class="w-layout-layout global-summit-sponsors-grid wf-layout-layout">
+            <div id="w-node-a4defdd4-2e5c-32ad-6888-144190a76c90-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a id="w-node-_75bbfa78-9898-9c39-2a8a-c9a15ae278e5-40e995d9" href="https://www.avocadogreenmattress.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652adc5a16b317d5b538e_23_AvocadoLogoBlack.avif" loading="lazy" id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea0e-40e995d9" sizes="(max-width: 479px) 100vw, (max-width: 767px) 92vw, (max-width: 991px) 88vw, (max-width: 1919px) 47vw, 624.3663330078125px" alt="avocado logo" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652adc5a16b317d5b538e_23_AvocadoLogoBlack-p-500.avif 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652adc5a16b317d5b538e_23_AvocadoLogoBlack-p-800.png 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652adc5a16b317d5b538e_23_AvocadoLogoBlack.avif 2716w" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-a4defdd4-2e5c-32ad-6888-144190a76c91-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://www.promixnutrition.com" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66df4a73be5774b4e6739755_Logo__Promix%20Nutrition%20Inc.avif" loading="lazy" width="100" alt="promix logo" class="partner-icon width-100" /></a></div>
+            </div>
+            <div id="w-node-_2ecb6da5-daec-7866-131f-2a234d008671-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-_45f87fad-0689-e40f-4553-e80b943cfb8a-40e995d9" class="partner-icon-wrapper"><a id="w-node-_45f87fad-0689-e40f-4553-e80b943cfb8b-40e995d9" href="https://www.flickr.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/669e9a613b5444c8c3063740_unnamed%20(2).avif" loading="lazy" id="w-node-_45f87fad-0689-e40f-4553-e80b943cfb8c-40e995d9" alt="flickr logo" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-caea486a-fe19-7939-0997-12f498fb0383-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea0f-40e995d9" class="partner-icon-wrapper"><a id="w-node-_883a2975-20a2-6d59-2c98-f2eceb4c9dd3-40e995d9" href="https://boothandpartners.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652c685463b86b1f075ad_23_BoothPartnersLogoBlack.avif" loading="lazy" id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea11-40e995d9" alt="booth &amp; partners logo" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-_4ee1d91a-61cd-6b64-8bf5-702fbf7870e0-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://drink818.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6480ab0b4c2abbc9ed8b8c83_818%20tequila%20logo.avif" loading="lazy" width="100" alt="818 tequila logo" /></a></div>
+            </div>
+            <div id="w-node-_0b027f13-0f6b-698d-5173-94ae6997a083-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-df65520b-5dff-cf82-ecb9-3e45501aa6ab-40e995d9" class="partner-icon-wrapper"><a id="w-node-df65520b-5dff-cf82-ecb9-3e45501aa6ac-40e995d9" href="https://www.cloveandtwine.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/669e9b68e71f4bc420daf4b0_Clove%20%26%20Twine%20Logo.avif" loading="lazy" id="w-node-df65520b-5dff-cf82-ecb9-3e45501aa6ad-40e995d9" alt="clove &amp; twine logo" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-_1109b838-5a56-84da-7d2b-009d9a63af57-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-_22593e92-80a7-3bda-bb79-3e4cb35122a7-40e995d9" class="partner-icon-wrapper"><a id="w-node-a81ed320-3772-be5f-b0e1-118bdd80f8d1-40e995d9" href="https://necessaire.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652d82a4c4c6ec1d23352_23_NecessaireLogo.avif" loading="lazy" id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea14-40e995d9" alt="necessaire logo" /></a></div>
+            </div>
+            <div id="w-node-be638780-d327-8398-3796-1790e26c3393-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea12-40e995d9" class="partner-icon-wrapper"><a id="w-node-_0ac38b94-4ac9-3ff9-41d8-95301f3731aa-40e995d9" href="http://Liveprinting.com" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652e5d0968b1922422ff6_23_LiveprintingLogo.avif" loading="lazy" id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea17-40e995d9" sizes="(max-width: 479px) 100vw, (max-width: 767px) 92vw, (max-width: 991px) 88vw, (max-width: 1919px) 47vw, 624.3663330078125px" alt="live printing.com logo" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652e5d0968b1922422ff6_23_LiveprintingLogo-p-500.avif 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652e5d0968b1922422ff6_23_LiveprintingLogo.avif 1880w" /></a></div>
+            </div>
+            <div id="w-node-_6ae371a7-b1e7-9d45-04a4-001380e5c39a-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://palo.us/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66292e81287c572c260be07e_PALO%20LOGO_BLACK.avif" loading="lazy" width="190" alt="palo logo" /></a></div>
+            </div>
+            <div id="w-node-_6b3323d2-adef-a805-acc0-28daf6d08ad3-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea1b-40e995d9" class="partner-icon-wrapper"><a href="https://www.naturepedic.com" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65dd134d4b2ab81171852ccf_23_Naturepedic_Black.avif" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 92vw, (max-width: 991px) 88vw, (max-width: 1919px) 47vw, 624.3663330078125px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65dd134d4b2ab81171852ccf_23_Naturepedic_Black-p-500.png 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65dd134d4b2ab81171852ccf_23_Naturepedic_Black-p-800.png 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65dd134d4b2ab81171852ccf_23_Naturepedic_Black-p-1080.png 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65dd134d4b2ab81171852ccf_23_Naturepedic_Black.avif 2563w" alt="naturepedic log" class="flex-vertical" /></a></div>
+            </div>
+            <div id="w-node-d74eb631-7265-59d6-960b-21a157b768c5-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://northsix.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65fb29762368a977784e28b4_north%20six%20logo.webp" loading="lazy" width="190" sizes="(max-width: 479px) 100vw, 190.00001525878906px" alt="north six logo" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65fb29762368a977784e28b4_north%20six%20logo-p-500.webp 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65fb29762368a977784e28b4_north%20six%20logo-p-800.webp 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65fb29762368a977784e28b4_north%20six%20logo-p-1080.webp 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65fb29762368a977784e28b4_north%20six%20logo-p-1600.webp 1600w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65fb29762368a977784e28b4_north%20six%20logo-p-2000.webp 2000w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65fb29762368a977784e28b4_north%20six%20logo.webp 2410w" /></a></div>
+            </div>
+            <div id="w-node-_57e2151a-eb6f-fedd-5e93-adce7b6003bd-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://rabblewine.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66292fba19b463fa83d2fcfa_Rabble%20Circular%20Black.avif" loading="lazy" width="100" alt="rabble wine co. logo" /></a></div>
+            </div>
+            <div id="w-node-e0b479d7-c6d2-737c-c8fc-e714cb667073-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://drinkspindrift.com/" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66edb12ddc53101d4fd79f91_spindrift%20logo.png" loading="lazy" alt="spindrift logo" /></a></div>
+            </div>
+            <div id="w-node-ceb1acb3-8052-ab33-f11b-76a684d52709-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://caitlynminimalist.com/" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66464a574af488e8b14423df_Caitlyn%20Minimalist%20Logo.avif" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 92vw, (max-width: 991px) 88vw, (max-width: 1919px) 47vw, 624.3663330078125px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66464a574af488e8b14423df_Caitlyn%20Minimalist%20Logo-p-500.png 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66464a574af488e8b14423df_Caitlyn%20Minimalist%20Logo-p-800.png 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66464a574af488e8b14423df_Caitlyn%20Minimalist%20Logo.avif 2036w" alt="caitlyn minimalist logo" /></a></div>
+            </div>
+            <div id="w-node-_73c9f993-4f8b-13fe-bc80-ed7080a95047-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea15-40e995d9" class="partner-icon-wrapper"><a id="w-node-e6a8d89c-ab80-ba56-c673-fa2da309983a-40e995d9" href="https://verdicalgroup.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652fdc122215208c4fe8a_23_VerdicalGroupLogoBlack.avif" loading="lazy" id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea1a-40e995d9" sizes="(max-width: 479px) 100vw, (max-width: 767px) 88vw, (max-width: 991px) 63vw, (max-width: 1279px) 41vw, 480.1302185058594px" alt="verdical group logo" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652fdc122215208c4fe8a_23_VerdicalGroupLogoBlack-p-500.avif 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652fdc122215208c4fe8a_23_VerdicalGroupLogoBlack-p-800.png 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652fdc122215208c4fe8a_23_VerdicalGroupLogoBlack-p-1080.png 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d652fdc122215208c4fe8a_23_VerdicalGroupLogoBlack.avif 3601w" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-e71304f6-f286-6548-8b99-874adc07ab1d-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="http://www.bigpathcapital.com" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65e7153360ca3ffcbd743c53_Big%20Path%20Logo.avif" loading="lazy" width="190" alt="big path captical logo" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-_5b03d5ca-eda0-c3d4-1a8a-92bceb8b77b5-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://innersensebeauty.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66c620e39ba4db8c06e867bf_Asset%201Innersense.avif" loading="lazy" alt="innersense logo" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-f0904e61-290d-1d72-ba2c-a1d0925ea932-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://www.patagonia.com" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6480a58867740c14a66ca94f_Patagonia-Logo.png" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 92vw, (max-width: 991px) 88vw, (max-width: 1919px) 47vw, 624.3663330078125px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6480a58867740c14a66ca94f_Patagonia-Logo-p-500.avif 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6480a58867740c14a66ca94f_Patagonia-Logo-p-800.png 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6480a58867740c14a66ca94f_Patagonia-Logo-p-1080.avif 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6480a58867740c14a66ca94f_Patagonia-Logo.png 3840w" alt="patagonia logo" /></a></div>
+            </div>
+            <div id="w-node-b4835588-b934-6295-034c-07fb2bd73568-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea18-40e995d9" class="partner-icon-wrapper"><a id="w-node-d0ea8d6b-86f2-4d52-8af0-90ed27791576-40e995d9" href="http://www.experiencemomentum.com" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d6531e1ddf3033562f19e1_23_ExperienceM.avif" loading="lazy" id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea20-40e995d9" sizes="(max-width: 479px) 100vw, 200.56423950195312px" alt="experience momentum logo" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d6531e1ddf3033562f19e1_23_ExperienceM-p-500.png 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d6531e1ddf3033562f19e1_23_ExperienceM-p-800.png 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d6531e1ddf3033562f19e1_23_ExperienceM.avif 1702w" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-_2e2aab83-afa6-c1f0-50c0-6d2477a8edf7-40e995d9" class="w-layout-cell flex-vertical">
+              <div id="w-node-c6f270ad-73b3-be1f-aa30-a403275ae74c-40e995d9" class="partner-icon-wrapper"><a id="w-node-b5305dee-d8c6-508d-5a8c-35ec7099dbcb-40e995d9" href="http://www.nomadix.co" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d65310c17e3532f724cd2b_23_NomadixBlackLogo.avif" loading="lazy" id="w-node-_9f246090-c0c0-30e4-db49-1fd23641ea1d-40e995d9" sizes="(max-width: 479px) 100vw, (max-width: 767px) 388.5156555175781px, (max-width: 991px) 51vw, (max-width: 1279px) 36vw, 388.5156555175781px" alt="nomadix logo" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d65310c17e3532f724cd2b_23_NomadixBlackLogo-p-500.png 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65d65310c17e3532f724cd2b_23_NomadixBlackLogo.avif 2098w" class="partner-icon" /></a></div>
+            </div>
+            <div id="w-node-_2edc0f9c-17c8-901f-a315-89fe79069743-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="http://www.higherring.com" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6629333ebe6e5fb03ea9d047_higherring%20logo.avif" loading="lazy" width="190" alt="higherring logo" /></a></div>
+            </div>
+            <div id="w-node-b84a8bfb-014e-d521-75d5-76cb0f979e77-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://www.friendsheepwool.com/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/6707fce81e2d24387328ffe2_FRIENDSHEEP_logo_SMALL_3d13fb0c-1ac4-42de-869a-7919cddc3aac_410x.avif" loading="lazy" width="190" alt="friendsheep logo" class="partner-icon width-auto max-height-100px" /></a></div>
+            </div>
+            <div id="w-node-_4b31ef7f-65ea-e29c-e676-91d2803eef9d-40e995d9" class="w-layout-cell flex-vertical">
+              <div class="partner-icon-wrapper"><a href="https://usca.bcorporation.net/" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/66df4c533004bedd694587f0_Logo__B%20Lab%20US%20_%20Canada.avif" loading="lazy" width="190" alt="b lab logo" class="partner-icon width-auto max-height-100px" /></a></div>
+            </div>
+            <div id="w-node-_293435ba-7e0f-2e36-aad9-a8c3e4382a80-40e995d9" class="w-layout-cell"></div>
+          </div>
+        </div>
+      </div>
+      <div class="display-none"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afee2353fa1d156b4a5d68_2022%20Tom%20Sunski%20Open%20Arms.webp" loading="lazy" sizes="(max-width: 479px) 0px, 100vw" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afee2353fa1d156b4a5d68_2022%20Tom%20Sunski%20Open%20Arms-p-500.webp 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afee2353fa1d156b4a5d68_2022%20Tom%20Sunski%20Open%20Arms-p-800.webp 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afee2353fa1d156b4a5d68_2022%20Tom%20Sunski%20Open%20Arms-p-1080.webp 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afee2353fa1d156b4a5d68_2022%20Tom%20Sunski%20Open%20Arms-p-1600.webp 1600w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afee2353fa1d156b4a5d68_2022%20Tom%20Sunski%20Open%20Arms.webp 2000w" alt="tom from sunski welcoming attendees at global summit 2022" class="global-summit-sunski-banner" /></div>
+      <div><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65aff2b29be58da8c9090bfd_2022%20fireside%20chat.webp" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65aff2b29be58da8c9090bfd_2022%20fireside%20chat-p-500.webp 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65aff2b29be58da8c9090bfd_2022%20fireside%20chat-p-800.webp 800w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65aff2b29be58da8c9090bfd_2022%20fireside%20chat-p-1080.webp 1080w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65aff2b29be58da8c9090bfd_2022%20fireside%20chat-p-1600.webp 1600w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65aff2b29be58da8c9090bfd_2022%20fireside%20chat.webp 1920w" alt="2022 fireside chat at global summit" class="global-summit-sunski-banner" /></div>
+      <div class="container">
+        <div data-ix="fade-up-1" id="general" class="accordion js-accordion faqs">
+          <h2>FAQs</h2>
+          <div class="accordion__item js-accordion-item active bottom-border black">
+            <div data-w-id="b906661f-45e1-e59d-e060-f6993262b5eb" class="accordion-header js-accordion-header first"><a aria-expanded="true" aria-controls="faq1" href="#" class="accordion-title black w-button">Is Global Summit open to everyone?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon active" /></div>
+            <div data-ix="hide-on-load" id="faq1" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Registration is open and available to certified 1% for the Planet Business Members. We consider our Global Summit events a member benefit; any other participation is by invitation only.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div data-w-id="b906661f-45e1-e59d-e060-f6993262b5f4" class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq2" href="#" class="accordion-title black w-button">Does my ticket cost count toward my 1% for the Planet annual commitment?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq2" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Yes! Your ticket cost will automatically count toward your 1% commitment for the current fiscal year unless otherwise discussed with your account lead. If you prefer to have your ticket cost certified differently, please reach out to your account lead for approval.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div data-w-id="b906661f-45e1-e59d-e060-f6993262b5fd" class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq3" href="#" class="accordion-title black w-button">What is included with registration?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq3" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Registration includes access to the entire event schedule, including sessions and offsite activities. Any tools or materials required for session participation will be provided onsite. Lodging is not included but may be booked directly with our preferred lodging option on the event website.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div data-w-id="b906661f-45e1-e59d-e060-f6993262b606" class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq4" href="#" class="accordion-title black w-button">What will the content and schedule for Global Summit look like?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="give" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Our team is hard at work planning content, securing speakers, and finalizing the event schedule on today’s important environmental issues and solutions, as well as how to grow our movement.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div data-w-id="b906661f-45e1-e59d-e060-f6993262b60f" class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq5" href="#" class="accordion-title black w-button">How will you be ensuring accessibility to all attendees?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq5" aria-controls="" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">We value inclusion and access for all participants, including accommodations related to visual, auditory, speech, mobility, psychological or cognitive disability. Any members requiring accommodations will be able to request these at the time of registration.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div data-w-id="b906661f-45e1-e59d-e060-f6993262b621" class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq6" href="#" class="accordion-title black w-button">Are there scholarships or grants available for subsidized attendance?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq6" aria-expanded="false" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Yes! The Global Summit scholarship program aims to provide localized support to certified 1% for the Planet Business Members with historical and institutional barriers, and support equity in attendance by subsidizing costs of ticket prices for eligible applicants. <a href="https://forms.monday.com/forms/5a9f2b03239a624c73942d64e4be722c?r=use1" target="_blank">You can access the scholarship application here.</a> The application closes a few months before the event.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div data-w-id="b906661f-45e1-e59d-e060-f6993262b632" class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq7" href="#" class="accordion-title black w-button">Will you feed us?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq70" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Yes, this is included in the ticket price for the in-person event. Meals provided will be outlined in the event program. Between our awesome members and venue, you will be well fed. Any dietary restrictions or food allergies will be recorded during the registration process.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div data-w-id="eb13217d-1162-9ece-2a6c-020d7ddcb118" class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq7" href="#" class="accordion-title black w-button">Will you be offering any family accessibility accommodations for childcare or new parents?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq71" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Thanks to the thoughtful feedback of our network, we are maintain new parent accessibility options. We will not be providing dedicated childcare at this time, but continue to review those solutions for our attending parents in the future.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div data-w-id="8f3db277-7b3e-4dab-3a57-dca27638c39a" class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq7" href="#" class="accordion-title black w-button">Is there a dress code at the event? What should I wear?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq7" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Global Summit is a casual environment encouraging you to come as you are. We&#x27;ve had friends show up in trout costumes, pantsuits, sweats and drag. Whether that means joggers and Chacos is the best fit, is up to you. Global Summit holds room for attendees to show up as themselves!<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq8" href="#" class="accordion-title black w-button">Is proof of vaccination required to attend?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq8" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Global Summit will continue to plan in accordance with local and state guidelines. By registering for in-person attendance at Global Summit, you are acknowledging that an inherent risk of exposure to COVID-19 exists in any public space where people are present.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq9" href="#" class="accordion-title black w-button">What is the refund policy?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq9" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Tickets are refundable upon request until up to 1 month (30 days) prior to the event, less a transaction fee. Eventbrite fees are nonrefundable. Tickets are non-transferable.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq10" href="#" class="accordion-title black w-button">Will there be a virtual attendance option?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq10" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Our current focus is to ensure an inspiring, safe in-person event. We know that when this group gets together, we generate incredible energy and action that can change the world. A limited selection of content may be made available to our network post-event.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq11" href="#" class="accordion-title black w-button">Can I sponsor the event?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq11" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Interested in supporting Global Summit at a higher level? We have select sponsorship packages available for 1% for the Planet Business Members. Please <a href="mailto:events@onepercentfortheplanet.org?subject=Global%20Summit%20Question">email events@onepercentfortheplanet.org</a> for sponsorship information.<br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq13" href="#" class="accordion-title black w-button">What is your position on carbon offsets and how can I offset my carbon footprint from attending this event?</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq13" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">1% for the Planet recommends offset purchasers to research the benefits and critiques of carbon offsetting, including the history and likelihood for them to create environmental injustices for Indigenous Peoples, and to choose offset solutions that explicitly and transparently address the public health and human rights impacts caused by many carbon offset projects. More expert guidance can be found within the SBTI Net-Zero Standard. <a href="https://www.onepercentfortheplanet.org/environmental-partners" target="_blank">Additional 1% for the Planet Environmental Partner position statements can be found on our environmental partners web page here.</a><br /></div>
+            </div>
+          </div>
+          <div class="accordion__item js-accordion-item bottom-border black">
+            <div class="accordion-header js-accordion-header second"><a aria-expanded="false" aria-controls="faq11" href="#" class="accordion-title black w-button">I have a question that&#x27;s not listed here!</a><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65a982e68163e6833cf98593_chevron%20right%20black.png" loading="lazy" alt="black chevron" width="15" class="js-accordion-icon" /></div>
+            <div data-ix="hide-on-load" id="faq12" class="accordion-body js-accordion-body">
+              <div class="accordion-body__contents black">Please <a href="mailto:events@onepercentfortheplanet.org?subject=Global%20Summit%20Question">email events@onepercentfortheplanet.org</a> with any additional questions or concerns related to Global Summit.<br /></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <h2>Other Global Summit-y things...</h2>
+        <div class="w-layout-grid events-cards-grid">
+          <div id="w-node-_538238a7-e250-6068-3137-2aed03e17462-40e995d9" class="event-card-container">
+            <div class="event-card-image-wrapper"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe5cf5dd698a86e57fdf0_2023%20Global%20Summit%20Happy%20Hour%20Sponsored%20by%20Booth.jpeg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 88vw, 720.0000610351562px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe5cf5dd698a86e57fdf0_2023%20Global%20Summit%20Happy%20Hour%20Sponsored%20by%20Booth-p-500.jpeg 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe5cf5dd698a86e57fdf0_2023%20Global%20Summit%20Happy%20Hour%20Sponsored%20by%20Booth.jpeg 720w" alt="a sign at global summit happy hour showing booth as the sponsor" class="global-summit-three-across" /></div>
+            <div class="event-card-text-container">
+              <div class="event-card-text-wrapper">
+                <h3 class="event-card-heading">Want to be a Global Summit sponsor?</h3>
+              </div>
+              <div class="modal-component"><a href="#" role="button" data-w-id="538238a7-e250-6068-3137-2aed03e1746a" class="button-primary modal-open_btn no-right-margin w-button">Inquire about sponsorship</a>
+                <div aria-labelledby="speaker-request-form-button" role="dialog" aria-modal="true" style="opacity:0" class="modal-wrapper">
+                  <div id="w-node-_68c927fc-1772-75f7-03be-112b843f3200-40e995d9" style="-webkit-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="modal-container">
+                    <h2 class="white font-size-24px">Sponsorship inquiry</h2>
+                    <div class="modal-pop-up-form w-form">
+                      <form id="wf-form-Sponsorship-Inquiry-Form" name="wf-form-Sponsorship-Inquiry-Form" data-name="Sponsorship Inquiry Form" method="get" data-wf-page-id="65a853bddc325e2f40e995d9" data-wf-element-id="68c927fc-1772-75f7-03be-112b843f3204"><input class="business-as-usual-form-field w-input" autocomplete="name" autofocus="true" maxlength="256" name="Sponsor-Inquiry-Name-Field" data-name="Sponsor Inquiry Name Field" placeholder="" type="text" id="Sponsor-Inquiry-Name-Field" /><label for="Sponsor-Inquiry-Email-Field" class="white">Name</label><input class="business-as-usual-form-field w-input" autocomplete="email" maxlength="256" name="Sponsor-Inquiry-Email-Field" data-name="Sponsor Inquiry Email Field" placeholder="" type="email" id="Sponsor-Inquiry-Email-Field" required="" /><label for="Sponsor-Inquiry-Text-Field" class="white">Email Address</label><textarea id="Sponsor-Inquiry-Text-Field" name="Sponsor-Inquiry-Text-Field" maxlength="5000" data-name="Sponsor Inquiry Text Field" placeholder="" class="business-as-usual-form-field w-input"></textarea><label for="field" class="white margin-bottom-24px">Tell us a little more about your interest in global summit sponsorship</label><input type="submit" data-wait="Please wait..." class="button-white w-button" value="Submit" /></form>
+                      <div class="w-form-done">
+                        <div>Thank you! Your submission has been received!</div>
+                      </div>
+                      <div class="w-form-fail">
+                        <div>Oops! Please make sure to fill out the email field.</div>
+                      </div>
+                    </div><a role="button" href="#" class="modal-close_btn"><span class="sr-only">Close Modal</span><span aria-hidden="true">×</span></a>
+                  </div>
+                  <div aria-hidden="true" tabindex="-1" id="w-node-_68c927fc-1772-75f7-03be-112b843f321a-40e995d9" class="modal-close_area"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="w-node-_0f731b48-1f08-2afe-764b-0af41b6fa86b-40e995d9" class="event-card-container">
+            <div class="event-card-image-wrapper"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe7174c9114b41a33a882_2023%20global%20summit%20kate%20speaking%202.jpeg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 88vw, 720.0000610351562px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe7174c9114b41a33a882_2023%20global%20summit%20kate%20speaking%202-p-500.jpeg 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe7174c9114b41a33a882_2023%20global%20summit%20kate%20speaking%202.jpeg 720w" alt="kate williams speaking at global summit 2023 on stage" class="global-summit-three-across" /></div>
+            <div class="event-card-text-container">
+              <div class="event-card-text-wrapper">
+                <h3 class="event-card-heading">Speaker inquiries?</h3>
+              </div><a href="https://wkf.ms/3r5NTaP" role="button" target="_blank" class="button-primary no-right-margin display-none-dt-flex-mlm w-button">Fill out our request form</a>
+              <div class="modal-component"><a href="#" id="speaker-request-form-button" role="button" data-w-id="f9243c18-a1f7-074a-9c31-bcdd1cdbc88b" class="button-primary modal-open_btn no-right-margin display-dt-none-m w-button">Fill out our inquiry form</a>
+                <div aria-labelledby="speaker-request-form-button" role="dialog" aria-modal="true" style="opacity:0" class="modal-wrapper">
+                  <div id="w-node-f9243c18-a1f7-074a-9c31-bcdd1cdbc88e-40e995d9" style="-webkit-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="modal-container">
+                    <div class="w-embed w-iframe">
+                      <style>
+                        .form-wrapper-component .form-content-component {
+                          width: 100% !important;
+                        }
+
+                        .form-content-component .form-date-input-wrapper .form-date-input,
+                        .enforced-item-creation-form .form-date-input-wrapper .form-date-input {
+                          min-width: 100px;
+                        }
+                      </style><iframe src="https://forms.monday.com/forms/embed/712cb5eb09a7d7585bf167f6dda338d1?r=use1" width="100%" height="500" style="border: 0; box-shadow: 5px 5px 56px 0px rgba(0,0,0,0.25); padding:5px"></iframe>
+                    </div>
+                    <h2 class="white font-size-24px display-none">Looking to request a speaker from 1% for the Planet?</h2>
+                    <div class="modal-pop-up-form display-none w-form">
+                      <form id="wf-form-Request-a-Speaker-Form" name="wf-form-Request-a-Speaker-Form" data-name="Request a Speaker Form" method="get" data-wf-page-id="65a853bddc325e2f40e995d9" data-wf-element-id="f9243c18-a1f7-074a-9c31-bcdd1cdbc893"><input class="business-as-usual-form-field w-input" autocomplete="name" autofocus="true" maxlength="256" name="name" data-name="Name" placeholder="" type="text" id="name" /><label for="email" class="white">Name</label><input class="business-as-usual-form-field w-input" autocomplete="email" maxlength="256" name="email" data-name="Email" placeholder="" type="email" id="email" required="" /><label for="speaker-request-text" class="white">Email Address</label><textarea class="business-as-usual-form-field w-input" autocomplete="off" maxlength="5000" name="speaker-request-text" data-name="Speaker Request Text" placeholder="Example Text" id="speaker-request-text"></textarea><label for="field" class="white margin-bottom-24px">What&#x27;s your topic area and event date and location? Please provide as much information as possible.</label><input type="submit" data-wait="Please wait..." class="button-white w-button" value="Submit" /></form>
+                      <div class="w-form-done">
+                        <div>Thank you! Your submission has been received!</div>
+                      </div>
+                      <div class="w-form-fail">
+                        <div>Oops! Something went wrong while submitting the form.</div>
+                      </div>
+                    </div><a role="button" href="#" class="modal-close_btn"><span class="sr-only">Close Modal</span><span aria-hidden="true">×</span></a>
+                  </div>
+                  <div aria-hidden="true" tabindex="-1" id="w-node-f9243c18-a1f7-074a-9c31-bcdd1cdbc8a9-40e995d9" class="modal-close_area"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="w-node-b745ea7f-2d55-e823-0f47-9bac5b3ca558-40e995d9" class="event-card-container">
+            <div class="event-card-image-wrapper"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe784aea9ec7584fdc778_2023%20global%20summit%20audience%20asking%20question.jpeg" loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 88vw, 720.0000610351562px" srcset="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe784aea9ec7584fdc778_2023%20global%20summit%20audience%20asking%20question-p-500.jpeg 500w, https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/65afe784aea9ec7584fdc778_2023%20global%20summit%20audience%20asking%20question.jpeg 720w" alt="an audience member at global summit 2023 asking a question on the microphone" /></div>
+            <div class="event-card-text-container">
+              <div class="event-card-text-wrapper">
+                <h3 class="event-card-heading">Have questions?</h3>
+              </div>
+              <div class="modal-component"><a href="#" role="button" data-w-id="78fd7e2e-ccf8-57d0-16a8-8020b6f08c4b" class="button-primary modal-open_btn no-right-margin w-button">Contact the events team</a>
+                <div aria-labelledby="speaker-request-form-button" role="dialog" aria-modal="true" style="opacity:0" class="modal-wrapper">
+                  <div id="w-node-_78fd7e2e-ccf8-57d0-16a8-8020b6f08c4e-40e995d9" style="-webkit-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20PX, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="modal-container">
+                    <h2 class="white font-size-24px">Questions about events?</h2>
+                    <div class="modal-pop-up-form w-form">
+                      <form id="wf-form-Contact-Events-Team-Form-GS-Page" name="wf-form-Contact-Events-Team-Form-GS-Page" data-name="Contact Events Team Form GS Page" method="get" data-wf-page-id="65a853bddc325e2f40e995d9" data-wf-element-id="78fd7e2e-ccf8-57d0-16a8-8020b6f08c52"><input class="business-as-usual-form-field w-input" autocomplete="name" autofocus="true" maxlength="256" name="Name" data-name="Name" placeholder="" type="text" id="events-name" /><label for="events-email" class="white">Name</label><input class="business-as-usual-form-field w-input" autocomplete="email" maxlength="256" name="Email" data-name="Email" placeholder="" type="email" id="events-email" required="" /><label for="Events-Question-GS-Page" class="white">Email Address</label><textarea id="Events-Question-GS-Page" name="Events-Question" maxlength="5000" data-name="Events Question" placeholder="" required="" class="business-as-usual-form-field w-input"></textarea><label for="field-3" class="white margin-bottom-24px">What&#x27;s your question?</label><input type="submit" data-wait="Please wait..." class="button-white w-button" value="Submit" /></form>
+                      <div class="w-form-done">
+                        <div>Thank you! Your submission has been received!</div>
+                      </div>
+                      <div class="w-form-fail">
+                        <div>Oops! Please make sure to fill out the email field.</div>
+                      </div>
+                    </div><a role="button" href="#" class="modal-close_btn"><span class="sr-only">Close Modal</span><span aria-hidden="true">×</span></a>
+                  </div>
+                  <div aria-hidden="true" tabindex="-1" id="w-node-_78fd7e2e-ccf8-57d0-16a8-8020b6f08c68-40e995d9" class="modal-close_area"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <div data-w-id="3821b4ea-5ff3-ea30-216c-a5cbb0b19bea" class="footer">
+      <footer id="footer-content" class="footer-section-content mod--footer w-clearfix"><a href="#footer-policies" class="footer-skip-link w-inline-block">
+          <div>Skip to footer policies</div>
+        </a>
+        <div data-w-id="3821b4ea-5ff3-ea30-216c-a5cbb0b19bec" class="footer-content-wrapper mod--footer w-clearfix">
+          <div class="footer-columns-wrapper mod--1">
+            <div class="footer-column footer-email-sign-up-container"><a href="/" class="logo-link-footer mod--footer w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/637cf544d59e223359361578_1ftp_Primary_Vertical_White-1.avif" loading="eager" width="179" alt="1% for the Planet White Veritcal Logo" class="footer-logo" /></a>
+              <div class="footer__form-wrap">
+                <div>
+                  <h2 id="subscribe-footer" class="footer__form-title centered-paragraph">Subscribe to our newsletter:</h2>
+                  <div class="footer__form-block w-form">
+                    <form id="wf-form-Footer" name="wf-form-Footer" data-name="Footer" method="get" data-webflow-hubspot-api-form-url="https://hubspotonwebflow.com/api/forms/8be4d011-390c-4802-9fd3-aeeaf04e8865" class="modal-pop-up-form" data-wf-page-id="65a853bddc325e2f40e995d9" data-wf-element-id="3821b4ea-5ff3-ea30-216c-a5cbb0b19bf5"><input class="footer__form---input w-input" data-wfhsfieldname="FormTextInput-2" autocomplete="email" maxlength="256" name="email-field" data-name="email field" aria-labelledby="subscribe-footer" placeholder="Email address" type="email" id="email-field" required="" />
+                      <div class="form__btn">
+                        <div form-submitted="anim" class="overflow-hidden mod--submit active">
+                          <div data-anim="arrows" class="form__btn-arrows"><img alt="" loading="eager" src="https://cdn.prod.website-files.com/633acc23fe06891a04039e96/633acc23fe0689891a039eb8_arrow-btn.svg" class="form__btn-arrow mod--2" /><img alt="" loading="eager" src="https://cdn.prod.website-files.com/633acc23fe06891a04039e96/633acc23fe0689891a039eb8_arrow-btn.svg" class="form__btn-arrow" /></div>
+                        </div>
+                        <div class="form__submit-result-wrap">
+                          <div form-submitted="anim" class="form__submit-result active"><img src="https://cdn.prod.website-files.com/633acc23fe06891a04039e96/633acc23fe0689cbfe039ecd_ico-cheked.svg" loading="lazy" alt="" class="form__submit-result-ico" /></div>
+                        </div><input type="submit" data-wait="Please wait..." class="form__submit w-button" value="Submit" />
+                      </div><input type="hidden" name="hutk" value="" /><input type="hidden" name="ipAddress" value="" /><input type="hidden" name="pageUri" value="" /><input type="hidden" name="pageId" value="" /><input type="hidden" name="pageName" value="" />
+                    </form>
+                    <div class="footer__form-success w-form-done">
+                      <div>Thanks! We think our newsletters are great. Hope you do too!</div>
+                    </div>
+                    <div class="error-message w-form-fail">
+                      <div>Invalid email. Required format: email@email.com</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="footer-column mod--2">
+              <div class="footer-rotate-wrap">
+                <div class="footer-rotate-words-intro-wrap">
+                  <div class="footer-rotate-words-intro">Joining helps</div>
+                </div>
+                <div class="footer-rotate-words-container">
+                  <div class="footer-rotate-words-wrap">
+                    <div data-w-id="38360479-1bbe-9c32-4a18-67919c6db051" class="footer-rotate-words-first-word">people</div>
+                    <div data-w-id="7e366f2e-0d24-4860-7ccc-0a77738325f8" class="footer-rotate-words">the planet</div>
+                    <div data-w-id="21cb646d-1879-290e-5333-5033b6f87029" class="footer-rotate-words">future generations</div>
+                    <div data-w-id="63f83b02-8603-1fe2-3674-ff705ea7a961" class="footer-rotate-words">your business</div>
+                  </div>
+                  <div class="footer-rotate-word-alternate-wrapper">
+                    <div class="footer-rotate-words">us all.</div>
+                  </div>
+                  <div class="footer-button-wrapper"><a aria-label="pause animation" data-w-id="94e4884e-9ac8-3735-59ef-adb23f6a135e" href="#" class="hide-animation-button w-button"></a><a aria-label="play animation" data-w-id="ab9db5db-b018-473b-9e38-f746ee622b12" href="#" class="play-animation-button w-button">▸<br /></a></div>
+                </div>
+              </div>
+              <div class="footer-inside-columns footer-inside-columns-grid">
+                <div class="footer-inside-column-link-grid mod--1">
+                  <h2 class="footer__list-title">Join</h2>
+                  <div class="w-layout-grid footer-grid-link-list"><a href="/join" id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c19-b0b19bea" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c1d-b0b19bea" class="footer__nav-link">join as a business</div>
+                    </a><a id="w-node-_2cc1fb59-b4e7-17b0-1d28-5098ee97e66e-b0b19bea" href="/membership#how-it-works" class="footer__nav-link w-inline-block">
+                      <div class="footer__nav-link">How it works</div>
+                    </a></div>
+                </div>
+                <div class="footer-inside-column-link-grid mod--1">
+                  <h2 class="footer__list-title">Donate</h2>
+                  <div class="w-layout-grid footer-grid-link-list"><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c26-b0b19bea" href="/donate" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c27-b0b19bea" class="footer__nav-link">Donate today</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c2c-b0b19bea" href="/planet-impact-fund" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c2d-b0b19bea" class="footer__nav-link">planet impact fund</div>
+                    </a><a id="w-node-_337adc68-f59e-cdfe-44d7-9e235f478d28-b0b19bea" href="/support" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_337adc68-f59e-cdfe-44d7-9e235f478d29-b0b19bea" class="footer__nav-link">Ways to support</div>
+                    </a><a id="w-node-_8a5e4743-5337-9520-b578-c56a860854d5-b0b19bea" href="/donor-advised-funds" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_8a5e4743-5337-9520-b578-c56a860854d6-b0b19bea" class="footer__nav-link">Donor Advised Funds</div>
+                    </a></div>
+                </div>
+                <div class="footer-inside-column-link-grid mod--1">
+                  <h2 class="footer__list-title">Learn</h2>
+                  <div class="w-layout-grid footer-grid-link-list grid-1x5"><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c33-b0b19bea" href="/about/mission" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c34-b0b19bea" class="footer__nav-link">Our Mission</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c36-b0b19bea" href="/about/story" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c37-b0b19bea" class="footer__nav-link">Our STory</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c39-b0b19bea" href="/stories" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c3a-b0b19bea" class="footer__nav-link">Stories of impact</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c3c-b0b19bea" href="/team" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c3d-b0b19bea" class="footer__nav-link">Our team</div>
+                    </a><a id="w-node-_3aae7968-928a-611d-ab38-27db2b90f1ae-b0b19bea" href="/founders-board" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3aae7968-928a-611d-ab38-27db2b90f1af-b0b19bea" class="footer__nav-link">FOUNDERS &amp; BOARD</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c3f-b0b19bea" href="/frequently-asked-questions" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c40-b0b19bea" class="footer__nav-link">FAQs</div>
+                    </a></div>
+                </div>
+                <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c42-b0b19bea" class="footer-inside-column-link-grid mod--1">
+                  <h2 class="footer__list-title">Connect</h2>
+                  <div class="w-layout-grid footer-grid-link-list"><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c46-b0b19bea" href="/contact" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c47-b0b19bea" class="footer__nav-link">Contact Us</div>
+                    </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c49-b0b19bea" href="/careers" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c4a-b0b19bea" class="footer__nav-link">Jobs </div>
+                      <div class="footer__nav-link left-margin-5px marigold-highlight display-none"> We&#x27;re Hiring!</div>
+                    </a><a id="w-node-_85c4a113-f3fc-ee5d-f487-3ff8a72365be-b0b19bea" href="/annual-reports" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_85c4a113-f3fc-ee5d-f487-3ff8a72365bf-b0b19bea" class="footer__nav-link">Annual Reports</div>
+                    </a><a id="w-node-_40d4792c-349e-cf38-e1ef-7e3332592092-b0b19bea" href="/press-kit" class="footer__nav-link w-inline-block">
+                      <div id="w-node-_40d4792c-349e-cf38-e1ef-7e3332592093-b0b19bea" class="footer__nav-link">Press &amp; Media Kit</div>
+                    </a><a id="w-node-ba572be1-3961-aa6e-0d38-1acfed87e0c8-b0b19bea" href="https://directories.onepercentfortheplanet.org/?viewMode=map" class="footer__nav-link w-inline-block">
+                      <div id="w-node-ba572be1-3961-aa6e-0d38-1acfed87e0c9-b0b19bea" class="footer__nav-link">Map</div>
+                    </a></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="footer-columns-wrapper footer__social">
+            <div class="footer-column social-media-container">
+              <div class="w-layout-grid social-media-grid"><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c57-b0b19bea" href="http://instagram.com/1percentftp" class="sm-icon-link w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63b5e11ac65da24fc3be9a25_Instagram.svg" loading="lazy" alt="Instagram" class="sm-icon" />
+                  <div class="sm-text sm-text-light">Instagram</div>
+                </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c5b-b0b19bea" href="http://linkedin.com/company/422477/" class="sm-icon-link w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63b5e11ac65da20a2cbe9a2a_LinkedIn.svg" loading="lazy" alt="LinkedIn" class="sm-icon" />
+                  <div class="sm-text sm-text-light">LinkedIn</div>
+                </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c5f-b0b19bea" href="https://vimeo.com/onepercent" class="sm-icon-link w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63b5e11ac65da2e941be9a2f_Vimeo.svg" loading="lazy" alt="Vimeo" class="sm-icon" />
+                  <div class="sm-text sm-text-light">Vimeo</div>
+                </a><a id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c63-b0b19bea" href="https://www.youtube.com/channel/UCt7Vb_t-ATwvYHTqs4Q2frQ" class="sm-icon-link w-inline-block"><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63b5e11ac65da2407fbe9a35_YouTube.svg" loading="lazy" alt="YouTube" class="sm-icon" />
+                  <div class="sm-text sm-text-light">YouTube</div>
+                </a></div>
+            </div>
+          </div>
+          <div class="footer-columns-wrapper footer__social">
+            <div class="footer-column">
+              <div class="w-layout-grid footer-certifications-grid">
+                <div id="w-node-_562d30e3-95a1-14c7-f84b-b1027d290466-b0b19bea" class="footer-certification">
+                  <div id="w-node-f2643c8a-b5a9-0aa0-28c0-305d9ee39e9c-b0b19bea" class="w-embed"><a href="https://www.guidestar.org/profile/shared/d72fb4a7-fc32-4fc3-acc4-0a59c5e8afb2" target="_blank"><img src="https://widgets.guidestar.org/TransparencySeal/8357061" alt="platinum transparency candid badge" lang="en" /></a></div>
+                </div><img src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/63939012163d96183dc9a73c_SupporterLogos-01%20(2)-1.avif" loading="lazy" id="w-node-_3821b4ea-5ff3-ea30-216c-a5cbb0b19c6c-b0b19bea" alt="Good Well Certified Logo
+" class="footer-certification" />
+                <div id="w-node-_3510ded8-fd2b-9d68-e738-220273949f40-b0b19bea" class="footer-certification">
+                  <div class="w-embed"><a href="https://www.charitynavigator.org/ein/912151932" target="_blank">
+                      <img src="https://charitynavigator.org/content/dam/cn/cn/badges/Four-StarRatingBadge-FullColor.png" alt="Charity Navigator Four-Star Rating" />
+                    </a></div>
+                </div>
+              </div>
+              <div id="footer-policies" class="footer-policies-container"><a href="/privacy-policy" class="footer__nav-link centered">Privacy Policy</a>
+                <div class="footer-policies-divider"> | </div><a href="/accessibility-statement" class="footer__nav-link centered">Accessibility Statement</a>
+                <div class="footer-policies-divider"> | </div><a href="/terms-of-use" class="footer__nav-link centered">Terms of Use</a>
+              </div>
+              <div class="footer-policies-container">
+                <div class="footer-copyright-text">Copyright <span class="demo-7_year">2024</span>. 1% for the Planet® is a 501(c)(3). All rights reserved. <br />1% for the Planet<sup>SM</sup> and the 1% for the Planet<sup>SM</sup> logo are trademarks of 1% for the Planet and are registered in the U.S.<br />EIN: 91-2151932</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6345b143630a009103bb4bdd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script src="https://cdn.prod.website-files.com/6345b143630a009103bb4bdd/js/webflow.28d1bce19d64540fa1cbbdb2076b259c.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      _linkedin_partner_id = "6523436";
+      window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+      window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+    </script>
+    <script type="text/javascript">
+      (function(l) {
+        if (!l) {
+          window.lintrk = function(a, b) {
+            window.lintrk.q.push([a, b])
+          };
+          window.lintrk.q = []
+        }
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+      })(window.lintrk);
+    </script>
+    <noscript>
+      <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=6523436&fmt=gif" />
+    </noscript>
+
+    <!-- Load Cookies.js Library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/3.0.1/js.cookie.min.js" defer></script>
+
+    <!-- Banner JavaScript -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var cookieName = 'announcementClosed';
+
+        // Check if the cookie exists, if it does, hide the announcement bar
+        if (typeof Cookies.get(cookieName) !== 'undefined') {
+          document.querySelector('.announcement-bar').style.display = 'none';
+        }
+
+        // When the "X" button is clicked, set the cookie and hide the announcement bar
+        document.querySelector('.announcement-x-button').addEventListener('click', function() {
+          Cookies.set(cookieName, 'ok', {
+            expires: 7
+          }); // Cookie expires in 7 days
+          document.querySelector('.announcement-bar').style.display = 'none'; // Hide the announcement bar
+        });
+      });
+    </script>
+
+
+    <!-- Make modals accessible with trapped focus and ESC key to close -->
+    <script>
+      $(document).ready(function() {
+        var buttonThatOpenedModal;
+        var findModal = function(elem) {
+          var tabbable = elem.find('select, input, textarea, button, a').filter(':visible');
+
+          var firstTabbable = tabbable.first();
+          var lastTabbable = tabbable.last();
+          /*set focus on first input*/
+          firstTabbable.focus();
+
+          /*redirect last tab to first input*/
+          lastTabbable.on('keydown', function(e) {
+            if ((e.which === 9 && !e.shiftKey)) {
+              e.preventDefault();
+              firstTabbable.focus();
+            }
+          });
+
+          /*redirect first shift+tab to last input*/
+          firstTabbable.on('keydown', function(e) {
+            if ((e.which === 9 && e.shiftKey)) {
+              e.preventDefault();
+              lastTabbable.focus();
+            }
+          });
+
+          /* allow escape key to close insiders div */
+          elem.on('keydown', function(e) {
+            if (e.keyCode === 27) {
+              $(elem).find('.modal-close_btn').click();
+            };
+          });
+        };
+
+        var modalOpenButton = $('.modal-open_btn');
+        modalOpenButton.on('keydown', function(e) {
+          // Only activate on spacebar and enter
+          if (e.which !== 13 && e.which !== 32) {
+            return;
+          }
+
+          e.preventDefault();
+
+          // Simulate a mouseclick to trigger Webflow's IX2/Interactions
+          var evt = document.createEvent("MouseEvents");
+          evt.initMouseEvent("click", true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+          $(this).get(0).dispatchEvent(evt);
+        });
+        modalOpenButton.on('click', function() {
+          $(this).next().show();
+          findModal($(this).next());
+          buttonThatOpenedModal = $(this);
+        });
+
+        var modalCloseButton = $('.modal-close_btn, .modal-close_area');
+        modalCloseButton.on('keydown', function(e) {
+          // Only activate on spacebar and enter
+          if (e.which !== 13 && e.which !== 32) {
+            return;
+          }
+
+          e.preventDefault();
+
+          // Simulate a mouseclick to trigger Webflow's IX2/Interactions
+          var evt = document.createEvent("MouseEvents");
+          evt.initMouseEvent("click", true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0, null);
+          $(this).get(0).dispatchEvent(evt);
+        });
+        modalCloseButton.on('click', function() {
+          $(this).closest('.modal-wrapper').hide();
+          if (buttonThatOpenedModal) {
+            buttonThatOpenedModal.focus();
+            buttonThatOpenedModal = null;
+          }
+        });
+      });
+    </script>
+
+    <!-- Accordion code -->
+    <script>
+      // Accordion Settings 
+      const accSettings = {
+        speed: 300, // Animation speed
+        oneOpen: true, // Close all other accordion items if true
+        // offsetAnchor: true, // Activate scroll to top for active item
+        // offsetFromTop: 180, // In pixels – Scroll to top at what distance
+        // scrollTopDelay: 400, // In Milliseconds – Delay before scroll to top 
+
+        classes: {
+          accordion: 'js-accordion',
+          header: 'js-accordion-header',
+          item: 'js-accordion-item',
+          body: 'js-accordion-body',
+          icon: 'js-accordion-icon',
+          active: 'active',
+        }
+      };
+
+
+      const prefix = accSettings.classes
+
+      const accordion = (function() {
+        const accordionElem = $(`.${prefix.accordion}`)
+        const accordionHeader = accordionElem.find(`.${prefix.header}`)
+        const accordionItem = $(`.${prefix.item}`)
+        const accordionBody = $(`.${prefix.body}`)
+        const accordionIcon = $(`.${prefix.icon}`)
+        const activeClass = prefix.active
+
+        return {
+          // pass configurable object literal
+          init: function(settings) {
+            accordionHeader.on('click', function() {
+              accordion.toggle($(this));
+              if (accSettings.offsetAnchor) {
+                setTimeout(() => {
+                  $('html').animate({
+                    scrollTop: $(this).offset().top - accSettings.offsetFromTop
+                  }, accSettings.speed);
+                }, accSettings.scrollTopDelay);
+              }
+            });
+
+            $.extend(accSettings, settings);
+
+            // ensure only one accordion is active if oneOpen is true
+            if (settings.oneOpen && $(`.${prefix.item}.${activeClass}`).length > 1) {
+              $(`.${prefix.item}.${activeClass}:not(:first)`).removeClass(activeClass).find(`.${prefix.header} > .${prefix.icon}`).removeClass(activeClass);
+            }
+            // reveal the active accordion bodies
+            $(`.${prefix.item}.${activeClass}`).find(`> .${prefix.body}`).show();
+
+          },
+
+          toggle: function($this) {
+            if (accSettings.oneOpen && $this[0] != $this.closest(accordionElem).find(`> .${prefix.item}.${activeClass} > .${prefix.header}`)[0]) {
+              $this.closest(accordionElem).find(`> .${prefix.item}`).removeClass(activeClass).find(accordionBody).slideUp(accSettings.speed);
+              $this.closest(accordionElem).find(`> .${prefix.item}`).find(`> .${prefix.header} > .${prefix.icon}`).removeClass(activeClass);
+            }
+
+            // show/hide the clicked accordion item
+            $this.closest(accordionItem).toggleClass(`${activeClass}`).find(`> .${prefix.header} > .${prefix.icon}`).toggleClass(activeClass);
+            $this.next().stop().slideToggle(accSettings.speed);
+          }
+        }
+      })();
+
+      $(document).ready(function() {
+        accordion.init(accSettings);
+      });
+    </script>
+    <!-- End accordion -->
+
+    <script src="https://hubspotonwebflow.com/assets/js/form-124.js" type="text/javascript" integrity="sha384-bjyNIOqAKScdeQ3THsDZLGagNN56B4X2Auu9YZIGu+tA/PlggMk4jbWruG/P6zYj" crossorigin="anonymous"></script>
+  </body>
+</html>
